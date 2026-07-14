@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Self neglect is commonly noted in all of the following EXCEPT:",
+    "options": [
+      "Social phobia",
+      "Chronic schizophrenia",
+      "Depression",
+      "Dementia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Depressive disorders; the following is a feature:",
+    "options": [
+      "Anhedonia",
+      "Optimistic thinking",
+      "Perceptual disturbances",
+      "Normal attention and concentration"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of conversion disorder?",
+    "options": [
+      "It is intentionally produced",
+      "It consists of multiple somatic complaints",
+      "It can be limited to pain",
+      "It involves neurological symptoms"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The best medications that can effectively treat bipolar disorder are:",
+    "options": [
+      "Anti-anxiety medications",
+      "Antidepressants",
+      "Antidepressant-antipsychotic",
+      "Mood stabilizers"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Delirium is distinguished from dementia based on acute onset, impairment in attention, and which of the following?",
+    "options": [
+      "Fluctuating course",
+      "Steady course",
+      "Presence of amnesia",
+      "Presence of depression"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The most common type of dementia is:",
+    "options": [
+      "Dementia of the Alzheimer's type (Alzheimer's disease)",
+      "Alcohol-related dementia",
+      "Vascular dementia",
+      "Metabolic dementia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is NOT true about panic attacks?",
+    "options": [
+      "Panic attacks involve a misinterpretation of bodily symptoms",
+      "Panic attacks generally last for up to 1 hour",
+      "Panic attacks are generally harmless to your physical health",
+      "Panic attacks do not usually occur in response to real danger"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The disorder characterized by acquiring things that are deemed to be of little or no value, resulting in excessive clutter of living spaces is called:",
+    "options": [
+      "Hoarding disorder",
+      "Collection disorder",
+      "Obsessive compulsive disorder",
+      "Phobic disorder"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hallucinations, delusions, and thought disorder are considered:",
+    "options": [
+      "Negative signs",
+      "Important signs",
+      "Logic signs",
+      "Positive signs"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Ambivalence is usually seen in patients with:",
+    "options": [
+      "Depression",
+      "OCD",
+      "Bipolar disorder",
+      "Panic disorder"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The ability to grasp the essentials of a whole and think symbolically is called:",
+    "options": [
+      "Abstract thinking",
+      "Concrete thinking",
+      "Magical thinking",
+      "Symbolic thinking"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In Dissociative Identity Disorder the host identity refers to which one of the following?",
+    "options": [
+      "The first one to emerge as new identity",
+      "The most dominant",
+      "The existed one before the onset of the disorder",
+      "The most aggressive"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The diagnostic criteria of Autism Spectrum Disorder includes all of the following EXCEPT:",
+    "options": [
+      "Deficit in social emotional reciprocity",
+      "Deficit in nonverbal communicative behavior",
+      "Deficit in attention",
+      "Deficit in developing relationships"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of individuals with paranoid personality disorder?",
+    "options": [
+      "Avoidance of close relationships",
+      "Avoidance of public places",
+      "Are often spontaneously aggressive to others",
+      "Often feel that they have been deeply and irreversibly betrayed by others"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the opening clinical case, a patient reported lack of energy, difficulty sleeping, loss of appetite, difficulty concentrating, and loss of interest in activities previously enjoyed. The most likely diagnosis is:",
+    "options": [
+      "Eating disorder",
+      "Major depressive disorder",
+      "Bipolar disorder",
+      "Generalized anxiety disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ramy has been originally diagnosed with depression and started on medications. He now presents with a history of feeling elated, needing less sleep and feeling very energetic. The most common diagnosis is:",
+    "options": [
+      "Bipolar and psychosis",
+      "Bipolar II disorder",
+      "Unipolar depression",
+      "Cyclothymic disorder"
+    ],
+    "correct": 1
+  }
+]

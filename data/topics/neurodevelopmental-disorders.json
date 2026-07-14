@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Autism spectrum disorder (ASD) has been found to be caused by:",
+    "options": [
+      "Multiple factors including genetics and environment.",
+      "Poor prenatal care.",
+      "Oxygen deprivation during childbirth.",
+      "Extensive drug and alcohol abuse by pregnant mothers."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Within attention deficit/hyperactivity disorder, which of the following is NOT classified as a problem relating to hyperactivity-impulsivity?",
+    "options": [
+      "Rather than sitting still, squirms in seat and fidgets.",
+      "Talks excessively.",
+      "Experiences difficulties in playing quietly.",
+      "Doesn't appear to listen when being told something or spoken to."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The first-line treatment for Attention Deficit Hyperactivity Disorder (ADHD) in school-aged children is:",
+    "options": [
+      "Stimulant medications (e.g., methylphenidate).",
+      "Haloperidol.",
+      "Diazepam.",
+      "Lithium."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A 5-year-old boy is brought to the psychiatrist because he has difficulty paying attention in school. He fidgets and squirms and will not stay seated in class. At home he talks excessively and has difficulty waiting for his turn. His language and motor skills are appropriate for his age. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Oppositional defiant disorder.",
+      "Attention-deficit hyperactivity disorder.",
+      "Separation anxiety disorder.",
+      "Mild intellectual disability."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Autism spectrum disorder (ASD) has been found to be caused by:",
+    "options": [
+      "Multiple factors including genetics and environment.",
+      "Poor prenatal care.",
+      "Oxygen deprivation during childbirth.",
+      "Extensive drug and alcohol abuse by pregnant mothers."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The diagnostic criteria of Autism Spectrum Disorder include all of the following EXCEPT:",
+    "options": [
+      "Deficit in social emotional reciprocity.",
+      "Deficit in non-verbal communicative behaviors.",
+      "Deficit in attention.",
+      "Deficit in developing relationships."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The MOST common reason children with autism are brought to medical attention by their parents is:",
+    "options": [
+      "Language delay.",
+      "Lack of toilet control.",
+      "School difficulties.",
+      "Stereotyped behavior."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements is FALSE regarding separation anxiety disorder?",
+    "options": [
+      "It involves recurrent distress when separated from attachment figures.",
+      "Separation anxiety disorder does not occur in adolescents.",
+      "Separation anxiety disorder is associated with school refusal.",
+      "The child may complain of somatic symptoms."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following symptoms is MOST LIKELY to persist when a young person with Attention-Deficit/Hyperactivity Disorder (ADHD) becomes an adult?",
+    "options": [
+      "Hyperactivity.",
+      "Impulsivity.",
+      "Inattention.",
+      "Learning difficulties."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Autism Spectrum Disorder (ASD) can generally be diagnosed:",
+    "options": [
+      "By 18–24 months of age.",
+      "At birth.",
+      "Between the ages of 5 and 8 years.",
+      "In utero."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is NOT a symptom of inattention in ADHD?",
+    "options": [
+      "Can't wait his turn.",
+      "Making careless mistakes.",
+      "Turning excessively.",
+      "Blurting out answers."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Atypical antipsychotics may be used in the management of Autism Spectrum Disorder (ASD) primarily to help with:",
+    "options": [
+      "Increasing IQ.",
+      "Reducing anxiety.",
+      "Improving social skills.",
+      "Aggression and irritability/agitation."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Intellectual disability is characterized by significant limitations in which two areas?",
+    "options": [
+      "Intellectual functioning and adaptive behavior.",
+      "Social skills and physical coordination.",
+      "Academic skills and motor movement.",
+      "Attention span and communication."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the most common chromosomal cause of intellectual disability?",
+    "options": [
+      "Trisomy 21 (Down syndrome).",
+      "Fragile X syndrome.",
+      "Prader-Willi syndrome.",
+      "Turner syndrome."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is considered a core feature of Autism Spectrum Disorder (ASD)?",
+    "options": [
+      "Persistent hallucinations.",
+      "Deficits in social communication and restricted repetitive behaviors.",
+      "Recurrent panic attacks.",
+      "Mood instability."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following medications is FDA-approved for the treatment of irritability associated with Autism Spectrum Disorder?",
+    "options": [
+      "Fluoxetine.",
+      "Methylphenidate.",
+      "Risperidone.",
+      "Diazepam."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A 4-year-old child avoids eye contact, rarely responds when his name is called, and repeatedly lines up his toys. The most likely diagnosis is:",
+    "options": [
+      "Attention-Deficit/Hyperactivity Disorder.",
+      "Autism Spectrum Disorder.",
+      "Separation Anxiety Disorder.",
+      "Conduct Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following features helps distinguish Autism Spectrum Disorder from Social Anxiety Disorder?",
+    "options": [
+      "Fear of embarrassment.",
+      "Persistent deficits in social communication beginning in early childhood.",
+      "Panic attacks.",
+      "Normal language development."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A child with ADHD is most likely to experience impairment in:",
+    "options": [
+      "Only academic performance.",
+      "Only family relationships.",
+      "Multiple settings such as home and school.",
+      "Only social relationships."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "According to DSM-5, symptoms of ADHD should be present before the age of:",
+    "options": [
+      "5 years.",
+      "7 years.",
+      "12 years.",
+      "18 years."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an example of impulsivity in ADHD?",
+    "options": [
+      "Losing school materials.",
+      "Forgetting daily activities.",
+      "Interrupting others during conversations.",
+      "Difficulty organizing tasks."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is considered the first step in the assessment of a child suspected to have ADHD?",
+    "options": [
+      "Brain MRI.",
+      "Comprehensive clinical assessment from multiple sources.",
+      "EEG.",
+      "IQ testing only."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A child with Autism Spectrum Disorder becomes extremely distressed whenever his daily routine changes. This behavior reflects:",
+    "options": [
+      "Separation anxiety.",
+      "Restricted and repetitive patterns of behavior.",
+      "Oppositional behavior.",
+      "Hyperactivity."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common psychiatric comorbidity in children with Autism Spectrum Disorder?",
+    "options": [
+      "ADHD.",
+      "Bipolar disorder.",
+      "Schizophrenia.",
+      "Delusional disorder."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is TRUE regarding Intellectual Disability?",
+    "options": [
+      "It is diagnosed based only on IQ score.",
+      "Adaptive functioning must be impaired.",
+      "It always has a genetic cause.",
+      "Symptoms begin during adulthood."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following conditions should be excluded before diagnosing Intellectual Disability?",
+    "options": [
+      "Delirium.",
+      "Sensory impairment such as hearing loss.",
+      "Major depressive disorder.",
+      "Panic disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A child with ADHD has persistent symptoms despite behavioral interventions. The next appropriate management is:",
+    "options": [
+      "Electroconvulsive therapy.",
+      "Stimulant medication.",
+      "Antipsychotic medication.",
+      "Benzodiazepines."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following statements regarding ADHD is TRUE?",
+    "options": [
+      "Boys and girls are equally affected.",
+      "ADHD always resolves during adolescence.",
+      "Symptoms may persist into adulthood.",
+      "Hyperactivity is always the predominant symptom."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A child with Autism Spectrum Disorder repeatedly flaps his hands when excited. This behavior is best described as:",
+    "options": [
+      "Catatonia.",
+      "Motor stereotypy.",
+      "Tic disorder.",
+      "Compulsion."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Early diagnosis and intervention in Autism Spectrum Disorder are important because they:",
+    "options": [
+      "Completely cure the disorder.",
+      "Prevent all behavioral symptoms.",
+      "Improve long-term developmental and functional outcomes.",
+      "Eliminate the need for educational support."
+    ],
+    "correct": 2
+  }
+]

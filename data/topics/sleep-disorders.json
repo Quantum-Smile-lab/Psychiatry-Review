@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Which of the following is considered the first-line treatment for chronic insomnia?",
+    "options": [
+      "Diazepam.",
+      "Zolpidem.",
+      "Cognitive Behavioral Therapy for Insomnia (CBT-I).",
+      "Chlorpromazine."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The three types of sleep apnea are:",
+    "options": [
+      "Daytime and nighttime sleep apnea.",
+      "Obstructive, central, and complex sleep apnea.",
+      "Disruptive and non-disruptive sleep apnea.",
+      "None of the above."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Obstructive sleep apnea is:",
+    "options": [
+      "The least common form.",
+      "The least dangerous form.",
+      "The most common form.",
+      "None of the above."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which stage of sleep is characterized by the deepest sleep, requiring the most significant stimulation to induce arousal?",
+    "options": [
+      "Stage 1.",
+      "Stage 2.",
+      "Stage N3 (Slow-wave sleep).",
+      "REM sleep."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "According to DSM-5, which of the following is the primary criterion for Insomnia Disorder?",
+    "options": [
+      "Excessive daytime sleepiness.",
+      "Dissatisfaction with sleep quantity or quality.",
+      "Irresistible sleep attacks.",
+      "Sleep disruption from a breathing disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which stage of sleep is characterized by vivid dreaming?",
+    "options": [
+      "Stage N1.",
+      "Stage N2.",
+      "Stage N3.",
+      "REM sleep."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is the most common type of Sleep Apnea?",
+    "options": [
+      "Central Sleep Apnea.",
+      "Obstructive Sleep Apnea.",
+      "Complex Sleep Apnea.",
+      "Mixed Sleep Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the gold standard investigation for diagnosing Obstructive Sleep Apnea?",
+    "options": [
+      "Chest X-ray.",
+      "EEG.",
+      "Polysomnography (Sleep Study).",
+      "CT Brain."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A middle-aged obese man presents with loud snoring, witnessed apneas during sleep, and excessive daytime sleepiness. The most likely diagnosis is:",
+    "options": [
+      "Narcolepsy.",
+      "Obstructive Sleep Apnea.",
+      "Insomnia Disorder.",
+      "REM Sleep Behavior Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is considered first-line treatment for moderate to severe Obstructive Sleep Apnea?",
+    "options": [
+      "Benzodiazepines.",
+      "Continuous Positive Airway Pressure (CPAP).",
+      "Antidepressants.",
+      "Melatonin."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a common risk factor for Obstructive Sleep Apnea?",
+    "options": [
+      "Low body weight.",
+      "Obesity.",
+      "Hyperthyroidism.",
+      "Iron deficiency."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a common daytime symptom of Obstructive Sleep Apnea?",
+    "options": [
+      "Euphoria.",
+      "Excessive daytime sleepiness.",
+      "Hallucinations.",
+      "Hyperactivity."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the hallmark symptom of Narcolepsy?",
+    "options": [
+      "Loud snoring.",
+      "Excessive daytime sleepiness.",
+      "Sleepwalking.",
+      "Night terrors."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sudden loss of muscle tone triggered by strong emotions in a patient with narcolepsy is known as:",
+    "options": [
+      "Sleep paralysis.",
+      "Cataplexy.",
+      "Somnambulism.",
+      "Bruxism."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding Insomnia Disorder?",
+    "options": [
+      "It always results from another medical illness.",
+      "It is characterized by dissatisfaction with sleep quantity or quality.",
+      "It is diagnosed after one night of poor sleep.",
+      "It occurs only in elderly patients."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following medications should generally be avoided for long-term treatment of chronic insomnia?",
+    "options": [
+      "Benzodiazepines.",
+      "Melatonin.",
+      "CBT-I.",
+      "Sleep hygiene measures."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is considered a parasomnia?",
+    "options": [
+      "Obstructive Sleep Apnea.",
+      "Sleepwalking (Somnambulism).",
+      "Narcolepsy.",
+      "Insomnia Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which stage of sleep is most commonly associated with sleepwalking?",
+    "options": [
+      "REM sleep.",
+      "Stage N3 (Slow-wave sleep).",
+      "Stage N1.",
+      "Stage N2."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a characteristic feature of REM Sleep Behavior Disorder?",
+    "options": [
+      "Acting out dreams due to loss of normal muscle atonia during REM sleep.",
+      "Recurrent episodes of apnea.",
+      "Excessive worrying before sleep.",
+      "Sleepwalking during Stage N3 sleep."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding sleep disorders is TRUE?",
+    "options": [
+      "Obstructive Sleep Apnea commonly presents with loud snoring and excessive daytime sleepiness.",
+      "Narcolepsy is caused by upper airway obstruction.",
+      "Sleepwalking occurs during REM sleep.",
+      "CBT-I has no role in the management of chronic insomnia."
+    ],
+    "correct": 0
+  }
+]

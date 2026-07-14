@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following is required for the diagnosis of Adjustment Disorder?",
+    "options": [
+      "Symptoms occurring after an identifiable stressor.",
+      "Presence of hallucinations.",
+      "Symptoms lasting more than 2 years.",
+      "History of mania."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following best describes Adjustment Disorder?",
+    "options": [
+      "Emotional or behavioral symptoms that are disproportionate to an identifiable stressor.",
+      "A psychotic disorder caused by stress.",
+      "A personality disorder.",
+      "A neurodevelopmental disorder."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A 24-year-old student develops anxiety, insomnia, and poor concentration after failing an important examination. His symptoms began within weeks of the event and do not meet criteria for another psychiatric disorder. The most likely diagnosis is:",
+    "options": [
+      "Generalized Anxiety Disorder.",
+      "Adjustment Disorder.",
+      "Major Depressive Disorder.",
+      "PTSD."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding Adjustment Disorder?",
+    "options": [
+      "Symptoms begin only after exposure to life-threatening trauma.",
+      "Symptoms develop in response to an identifiable stressor.",
+      "It is classified as a psychotic disorder.",
+      "Symptoms always persist for more than one year."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the first-line treatment for Adjustment Disorder?",
+    "options": [
+      "Antipsychotic medications.",
+      "Psychotherapy and stress management.",
+      "Electroconvulsive Therapy.",
+      "Mood stabilizers."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following differentiates PTSD from Adjustment Disorder?",
+    "options": [
+      "PTSD requires exposure to a traumatic event.",
+      "PTSD is always associated with psychosis.",
+      "Adjustment Disorder always lasts more than one year.",
+      "Adjustment Disorder requires intrusive memories."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding Acute Stress Disorder is TRUE?",
+    "options": [
+      "Symptoms last less than one month after exposure to trauma.",
+      "Symptoms must persist for at least six months.",
+      "It is characterized only by depressed mood.",
+      "It occurs without exposure to trauma."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient develops intrusive memories, hypervigilance, and avoidance one week after surviving a serious car accident. The symptoms have persisted for 10 days. The most likely diagnosis is:",
+    "options": [
+      "PTSD.",
+      "Acute Stress Disorder.",
+      "Generalized Anxiety Disorder.",
+      "Panic Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is considered a common symptom in stress-related disorders?",
+    "options": [
+      "Avoidance of reminders of the stressful event.",
+      "Grandiose delusions.",
+      "Flight of ideas.",
+      "Echolalia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding Disorders Specifically Associated with Stress is TRUE?",
+    "options": [
+      "Symptoms are unrelated to stressful life events.",
+      "Early recognition and appropriate psychological intervention improve outcomes.",
+      "All patients require long-term antipsychotic treatment.",
+      "They are classified as neurocognitive disorders."
+    ],
+    "correct": 1
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "A 20-year-old female is nervous of being the focus of attention in public, avoids parties, and develops palpitations, anxiety and tremors during social engagements. Diagnosis:",
+    "options": [
+      "Panic disorder",
+      "Social phobia",
+      "Anxiety disorder with panic attacks",
+      "Mixed anxiety with depression"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 23-year-old male has blunted affect, grandiose delusions, clang associations and pressure of speech, and has been on antipsychotics for 2 months. Diagnosis:",
+    "options": [
+      "Schizophreniform psychosis",
+      "Manic depressive psychosis (manic phase)",
+      "Bipolar affective disorder type I",
+      "Brief psychotic disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 50-year-old woman has insomnia, excited mood, talks excessively, believes she is God's messenger, and has been taking antidepressants for 3 months. Diagnosis:",
+    "options": [
+      "Schizoaffective disorder",
+      "Bipolar affective disorder currently depressed",
+      "Bipolar disorder",
+      "Schizophrenia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A 30-year-old woman with chronic boredom, depression, short-lasting psychotic episodes, suicide attempts and promiscuity. Personality disorder:",
+    "options": [
+      "Passive aggressive",
+      "Schizoid",
+      "Affective",
+      "Borderline"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Common symptoms of panic attacks include all of the following EXCEPT:",
+    "options": [
+      "Fear of losing control",
+      "Fear of going crazy",
+      "Palpitations",
+      "Suicidal thoughts"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Persistence, perfectionism and body image distortion are MOST associated with:",
+    "options": [
+      "Anorexia nervosa",
+      "Borderline personality disorder",
+      "Hypochondriasis",
+      "Somatization disorder"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A man has eight mood episodes in one year including major depression, mania and hypomania with remission between episodes. Diagnosis:",
+    "options": [
+      "Cyclothymic disorder",
+      "Emotionally unstable personality disorder",
+      "Mixed affective disorder",
+      "Rapid cycling bipolar disorder"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Dementia in general is BEST described as:",
+    "options": [
+      "Global impairment",
+      "Impaired memory for personal events",
+      "Personality change",
+      "Progressive deterioration"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The MOST common reason children with autism are brought for medical attention is:",
+    "options": [
+      "Language delays",
+      "Lack of toilet control",
+      "School difficulties",
+      "Stereotyped behavior"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements is FALSE regarding separation anxiety disorder?",
+    "options": [
+      "It involves recurrent distress when separated from attachment figures",
+      "Separation anxiety disorder does not occur in adolescents",
+      "Separation anxiety disorder is associated with school refusal",
+      "The child may complain of somatic symptoms"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which ADHD symptom is MOST likely to persist into adulthood?",
+    "options": [
+      "Hyperactivity",
+      "Impulsivity",
+      "Inattention",
+      "Learning difficulties"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Conversion disorder, which is FALSE?",
+    "options": [
+      "The patient consciously produces the symptom",
+      "The symptom cannot be explained by an organic cause",
+      "The symptom is a loss/change in physical function suggesting physical disease",
+      "The patient must have experienced a recent psychosocial stressor"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which is NOT true of major depression?",
+    "options": [
+      "It affects about 10% of the population",
+      "It is more common in men",
+      "Symptoms must be present for at least 2 weeks",
+      "It is more common with a family history of depression"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which is NOT a positive symptom of schizophrenia?",
+    "options": [
+      "Hallucinations",
+      "Delusions",
+      "Disorganized behaviour",
+      "Lack of volition"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A patient has sudden palpitations, impending doom and chest constriction lasting 10–15 minutes. Diagnosis:",
+    "options": [
+      "Phobia",
+      "Personality disorder",
+      "Generalized anxiety disorder",
+      "Panic attack"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A 45-year-old male has waxy flexibility, negativism and decreased motor activity. Diagnosis:",
+    "options": [
+      "Hebephrenic schizophrenia",
+      "Catatonic schizophrenia",
+      "Paranoid schizophrenia",
+      "Simple schizophrenia"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 16-year-old boy fears classmates are laughing at him, believes they want to harm him, and is afraid to go to the market. Diagnosis:",
+    "options": [
+      "Anxiety neurosis",
+      "Manic-depressive psychosis",
+      "Adjustment reaction",
+      "Schizophrenia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Paranoid schizophrenia commonly presents with:",
+    "options": [
+      "Abnormal behaviours",
+      "Persecutory or grandiose delusions",
+      "Psychomotor disturbance",
+      "Incoherence and incongruous affect"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Negative symptoms of schizophrenia include all EXCEPT:",
+    "options": [
+      "Affective blunting and flattening",
+      "Hallucinations",
+      "Anhedonia",
+      "Poverty of thought content"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "All of the following are characteristic features of catatonic schizophrenia EXCEPT:",
+    "options": [
+      "Mannerism",
+      "Negativism",
+      "Echolalia",
+      "Flight of ideas"
+    ],
+    "correct": 3
+  }
+]

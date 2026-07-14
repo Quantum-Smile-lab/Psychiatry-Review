@@ -1,0 +1,152 @@
+[
+  {
+    "question": "There is a requirement for diagnosis of schizophrenia.",
+    "options": [
+      "Delusions and hallucinations",
+      "Delusions of persecution",
+      "Negative symptoms",
+      "Avolition"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient sees a rope and fears it is a snake. It is called:",
+    "options": [
+      "Illusion",
+      "Hallucination",
+      "Delusion",
+      "Depersonalization"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient diagnosed with bipolar disorder is dressed in a red leotard and bright scarves with pleasant and excessive happy behaviour. How should the nurse document the patient's mood?",
+    "options": [
+      "Euphoric",
+      "Sad",
+      "Anxious",
+      "Euthymic"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In most cases of depression, treatment involves a combination of:",
+    "options": [
+      "Psychotherapy and medication",
+      "Listening to patient and medication",
+      "Self-care and medication",
+      "Psychotherapy and medications"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is NOT a key diagnostic feature of delirium?",
+    "options": [
+      "Chronic onset",
+      "Fluctuating course",
+      "Impaired attention",
+      "Cognitive disturbance"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "True about Bipolar II disorder:",
+    "options": [
+      "Recurrent mania",
+      "Repetitive depression & mania",
+      "Repetitive mania & hypomania",
+      "Repetitive depression & hypomania"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is the cause of reversible dementia?",
+    "options": [
+      "Mania",
+      "Depression",
+      "Alzheimer dementia",
+      "Vascular dementia"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT a type of eating disorder?",
+    "options": [
+      "Anorexia nervosa",
+      "Bulimia nervosa",
+      "Binge eating disorder",
+      "Body dysmorphic disorder"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Obsessions in obsessive-compulsive disorder may present as:",
+    "options": [
+      "Hallucinations",
+      "Mental images",
+      "Delusions",
+      "Panic attacks"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 45-year-old woman has a long history of unstable relationships, self-injurious behavior, and affective instability. She meets criteria for:",
+    "options": [
+      "Major depressive disorder",
+      "Bipolar disorder",
+      "Borderline personality disorder",
+      "Histrionic personality disorder"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A 5-year-old boy has inattention, fidgeting, excessive talking, and difficulty waiting his turn. Diagnosis:",
+    "options": [
+      "Oppositional defiant disorder",
+      "Attention-deficit hyperactivity disorder",
+      "Separation anxiety disorder",
+      "Mild mental retardation"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following medical conditions can mimic a panic attack?",
+    "options": [
+      "Hyperthyroidism",
+      "Pheochromocytoma",
+      "Asthma",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A woman is convinced she has breast cancer despite repeated reassurance and normal investigations. Diagnosis:",
+    "options": [
+      "OCD",
+      "Generalized anxiety disorder",
+      "Somatic illness disorder",
+      "Adjustment disorder"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Autism spectrum disorder (ASD) has been found to be caused by:",
+    "options": [
+      "Multiple factors including genetics and environment",
+      "Poor prenatal care",
+      "Oxygen deprivation during childbirth",
+      "Extensive drug and alcohol abuse by pregnant mothers"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A 37-year-old man avoids social situations, has no close friends, prefers being alone, and is emotionally detached. Diagnosis:",
+    "options": [
+      "Avoidant personality disorder",
+      "Social phobia",
+      "Social anxiety",
+      "Schizoid personality disorder"
+    ],
+    "correct": 3
+  }
+]

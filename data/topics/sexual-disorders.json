@@ -1,0 +1,102 @@
+[
+  {
+    "question": "One of the criteria for female sexual desire/arousal disorder is:",
+    "options": [
+      "Focused on the physical inability to become sexually aroused.",
+      "Characterized by a delay or absence of orgasms.",
+      "Marked by physical discomfort and pain during sexual activity.",
+      "Characterized by low sexual interest or desire."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sexual dysfunction is when you're facing significant challenges related to your ability to which of the following?",
+    "options": [
+      "Understand sexuality.",
+      "Experience pleasure or respond sexually.",
+      "Explain your sexual interest.",
+      "Helping others to have relations."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common category of sexual dysfunction?",
+    "options": [
+      "Gender Dysphoria.",
+      "Paraphilic Disorder.",
+      "Sexual Dysfunction.",
+      "Personality Disorder."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a characteristic feature of Female Orgasmic Disorder?",
+    "options": [
+      "Pain during sexual intercourse.",
+      "Marked delay, infrequency, or absence of orgasm.",
+      "Absence of sexual desire only.",
+      "Fear of intimacy."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following disorders is characterized by recurrent genital pain associated with sexual intercourse?",
+    "options": [
+      "Female Sexual Interest/Arousal Disorder.",
+      "Genito-Pelvic Pain/Penetration Disorder.",
+      "Male Hypoactive Sexual Desire Disorder.",
+      "Erectile Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the hallmark feature of Erectile Disorder?",
+    "options": [
+      "Premature ejaculation.",
+      "Persistent inability to attain or maintain an erection sufficient for sexual activity.",
+      "Decreased sexual desire only.",
+      "Pain during ejaculation."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A man reports persistent difficulty maintaining an erection despite having normal sexual desire. The most likely diagnosis is:",
+    "options": [
+      "Male Hypoactive Sexual Desire Disorder.",
+      "Erectile Disorder.",
+      "Premature Ejaculation.",
+      "Gender Dysphoria."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the characteristic feature of Premature (Early) Ejaculation?",
+    "options": [
+      "Delayed ejaculation.",
+      "Ejaculation occurring sooner than desired with minimal sexual stimulation.",
+      "Painful ejaculation.",
+      "Absence of orgasm."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding Sexual Dysfunctions?",
+    "options": [
+      "They are diagnosed only when symptoms cause clinically significant distress.",
+      "They occur only in males.",
+      "They are always caused by medical illnesses.",
+      "They are classified as psychotic disorders."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is considered the first step in evaluating a patient with sexual dysfunction?",
+    "options": [
+      "Start antidepressants immediately.",
+      "Assess for medical, psychiatric, and relationship factors.",
+      "Begin psychotherapy without assessment.",
+      "Order brain MRI for every patient."
+    ],
+    "correct": 1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following is the strongest predictor of future suicide?",
+    "options": [
+      "Previous suicide attempt.",
+      "Male sex.",
+      "Unemployment.",
+      "Family conflict."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the primary intent of non-suicidal self-injury (NSSI)?",
+    "options": [
+      "To permanently escape emotional pain.",
+      "To get immediate help from negative emotions.",
+      "To alleviate psychological pain or regulate emotions.",
+      "To involve more lethal methods."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following psychiatric disorders carries the highest lifetime risk of suicide?",
+    "options": [
+      "Bipolar Disorder.",
+      "Specific Phobia.",
+      "Somatic Symptom Disorder.",
+      "Dissociative Identity Disorder."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is considered a major protective factor against suicide?",
+    "options": [
+      "Social isolation.",
+      "Previous suicide attempt.",
+      "Strong family and social support.",
+      "Substance abuse."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A patient expresses suicidal thoughts with a detailed plan and access to the intended method. The most appropriate management is:",
+    "options": [
+      "Reassure the patient and discharge home.",
+      "Arrange routine outpatient follow-up.",
+      "Immediate psychiatric assessment and ensure patient safety.",
+      "Start antidepressants and review after one month."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is considered the strongest modifiable risk factor for suicide?",
+    "options": [
+      "Untreated major depressive disorder.",
+      "Male sex.",
+      "Increasing age.",
+      "Family history alone."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding suicide is TRUE?",
+    "options": [
+      "Asking a patient about suicidal thoughts increases the risk of suicide.",
+      "Patients who talk about suicide rarely attempt it.",
+      "Direct assessment of suicidal ideation is an essential part of psychiatric evaluation.",
+      "Suicide always occurs without warning."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is considered a warning sign of imminent suicide?",
+    "options": [
+      "Giving away valued possessions.",
+      "Increased appetite.",
+      "Improved concentration.",
+      "Weight gain."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient with depression suddenly becomes unusually calm after several weeks of severe suicidal ideation. This should make the clinician suspect:",
+    "options": [
+      "Complete recovery.",
+      "Increased suicide risk.",
+      "Medication side effects.",
+      "Development of anxiety disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following patients is at the highest risk for completed suicide?",
+    "options": [
+      "Young female with superficial self-harm.",
+      "Elderly male with depression and a previous suicide attempt.",
+      "Child with separation anxiety disorder.",
+      "Patient with specific phobia."
+    ],
+    "correct": 1
+  }
+]

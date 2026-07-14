@@ -1,0 +1,203 @@
+[
+  {
+    "question": "Which of the following is NOT a type of eating disorder?",
+    "options": [
+      "Anorexia nervosa.",
+      "Bulimia nervosa.",
+      "Binge eating disorder.",
+      "Body dysmorphic disorder."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is NOT a type of eating disorder?",
+    "options": [
+      "Anorexia nervosa.",
+      "Bulimia nervosa.",
+      "Binge eating disorder.",
+      "Body dysmorphic disorder."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What are the two subtypes of anorexia nervosa?",
+    "options": [
+      "Restricting type and binge-eating/purging type.",
+      "Energy-sparing type and binge-eating/purging type.",
+      "Low-calorie/low-carbohydrate type and restricting type.",
+      "Low-carbohydrate/low-fat type and restricting type.",
+      "Restricting type and low-weight type."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following characterizes the onset and prevalence of Avoidant/Restrictive Food Intake Disorder (ARFID)?",
+    "options": [
+      "It occurs mostly in females, with onset typically in older adolescence.",
+      "It occurs mostly in males, with onset typically in early childhood.",
+      "It is more common in childhood and more common in females than in males.",
+      "It is more common in childhood and equally common in males and females."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A patient presents with persistence, perfectionism, and body image distortion. Which disorder is MOST likely associated with these clinical features?",
+    "options": [
+      "Anorexia nervosa.",
+      "Borderline personality disorder.",
+      "Hypochondriasis.",
+      "Somatization disorder."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A 45-year-old woman had a choking episode 3 years ago after eating salad. Since that time, she has been afraid to eat a wide range of foods, fearing that she will choke. This fear has affected her functionality and has contributed to weight loss. Which diagnosis best fits this clinical picture?",
+    "options": [
+      "Bulimia nervosa.",
+      "Anorexia nervosa.",
+      "Avoidant/Restrictive Food Intake Disorder (ARFID).",
+      "Binge-eating disorder."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Prior to the onset of bulimia nervosa, sufferers often:",
+    "options": [
+      "Had anorexia nervosa.",
+      "Were obese.",
+      "Attempted suicide.",
+      "Had higher than normal serotonin levels."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is the hallmark feature of Anorexia Nervosa?",
+    "options": [
+      "Recurrent binge eating.",
+      "Restriction of energy intake leading to significantly low body weight.",
+      "Excessive fear of public speaking.",
+      "Delusions about food."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a core feature of Bulimia Nervosa?",
+    "options": [
+      "Persistent food restriction only.",
+      "Recurrent binge eating followed by inappropriate compensatory behaviors.",
+      "Significant intellectual disability.",
+      "Absence of body image concerns."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common compensatory behavior in Bulimia Nervosa?",
+    "options": [
+      "Excessive sleeping.",
+      "Self-induced vomiting.",
+      "Hair pulling.",
+      "Self-harm."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 17-year-old girl has a BMI of 15 kg/m², intense fear of gaining weight, and perceives herself as overweight despite being underweight. The most likely diagnosis is:",
+    "options": [
+      "Bulimia Nervosa.",
+      "Anorexia Nervosa.",
+      "Body Dysmorphic Disorder.",
+      "Major Depressive Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding Bulimia Nervosa?",
+    "options": [
+      "Patients are always underweight.",
+      "Body weight is often normal.",
+      "Weight gain is essential for diagnosis.",
+      "There are no compensatory behaviors."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following electrolyte abnormalities is most commonly associated with repeated self-induced vomiting in Bulimia Nervosa?",
+    "options": [
+      "Hyperkalemia.",
+      "Hypokalemia.",
+      "Hypercalcemia.",
+      "Hypernatremia."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following eating disorders is characterized by recurrent binge eating without regular compensatory behaviors?",
+    "options": [
+      "Anorexia Nervosa.",
+      "Bulimia Nervosa.",
+      "Binge Eating Disorder.",
+      "ARFID."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is considered first-line psychotherapy for Bulimia Nervosa?",
+    "options": [
+      "Cognitive Behavioral Therapy (CBT).",
+      "Psychoanalysis.",
+      "Family Therapy only.",
+      "Supportive Psychotherapy only."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following medications has the strongest evidence for treating Bulimia Nervosa?",
+    "options": [
+      "Fluoxetine.",
+      "Haloperidol.",
+      "Lithium.",
+      "Diazepam."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a common medical complication of Anorexia Nervosa?",
+    "options": [
+      "Obesity.",
+      "Bradycardia.",
+      "Hypertension.",
+      "Hyperglycemia."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A child refuses to eat because of fear of choking after a previous choking episode, resulting in significant weight loss. The most likely diagnosis is:",
+    "options": [
+      "Bulimia Nervosa.",
+      "Avoidant/Restrictive Food Intake Disorder (ARFID).",
+      "Binge Eating Disorder.",
+      "OCD."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding Avoidant/Restrictive Food Intake Disorder (ARFID)?",
+    "options": [
+      "It is primarily driven by fear of weight gain.",
+      "It is commonly associated with body image disturbance.",
+      "It may lead to nutritional deficiency and weight loss without body image concerns.",
+      "It occurs only in adults."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following statements regarding Eating Disorders is TRUE?",
+    "options": [
+      "Anorexia Nervosa is characterized by intense fear of gaining weight and disturbed body image.",
+      "Bulimia Nervosa always results in severe underweight.",
+      "Binge Eating Disorder includes regular purging behaviors.",
+      "ARFID is caused by psychotic delusions."
+    ],
+    "correct": 0
+  }
+]

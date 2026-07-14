@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which is NOT the characteristic of Behavior Therapy?",
+    "options": [
+      "Focuses on overt and observable behavior.",
+      "Uses various conditioning techniques.",
+      "Directly modifies the patient's behavior.",
+      "Based on unconscious conflicts."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which type of psychotherapy is usually effective in GAD?",
+    "options": [
+      "Interpersonal psychotherapy.",
+      "Psychodynamic therapy.",
+      "Cognitive behavioural therapy.",
+      "Dialectical behaviour therapy."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Desensitization form of behavior therapy is used for:",
+    "options": [
+      "Phobic disorder.",
+      "Panic attacks.",
+      "Mania.",
+      "Depression."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which psychotherapy is considered the treatment of choice for Borderline Personality Disorder?",
+    "options": [
+      "Cognitive Behavioral Therapy.",
+      "Dialectical Behavior Therapy (DBT).",
+      "Psychoanalysis.",
+      "Supportive psychotherapy."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the major focus of interpersonal psychotherapy?",
+    "options": [
+      "Character change.",
+      "Clarifying communication patterns.",
+      "Interpreting transference.",
+      "Hypnosis."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT listed as an indication for group psychotherapy?",
+    "options": [
+      "Substance use disorders.",
+      "PTSD.",
+      "Acute psychosis.",
+      "Depressive disorders."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the main aim of Cognitive Behavioral Therapy (CBT)?",
+    "options": [
+      "Help patients regain equilibrium and maintain stability.",
+      "Encourage personality growth and development.",
+      "Identify and correct cognitive distortions and maladaptive behaviors.",
+      "Help family members understand interaction patterns."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following psychotherapies focuses on identifying and changing distorted patterns of thinking?",
+    "options": [
+      "Psychoanalysis.",
+      "Cognitive Behavioral Therapy (CBT).",
+      "Supportive Psychotherapy.",
+      "Interpersonal Therapy."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the primary goal of supportive psychotherapy?",
+    "options": [
+      "Interpretation of unconscious conflicts.",
+      "Providing emotional support and improving coping skills.",
+      "Hypnotic suggestion.",
+      "Systematic desensitization."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which psychotherapy primarily explores unconscious conflicts and early childhood experiences?",
+    "options": [
+      "Cognitive Behavioral Therapy.",
+      "Psychoanalysis.",
+      "Behavioral Therapy.",
+      "Family Therapy."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following behavioral techniques is commonly used in the treatment of specific phobias?",
+    "options": [
+      "Free association.",
+      "Systematic desensitization.",
+      "Dream analysis.",
+      "Reality orientation."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the treatment of choice for Obsessive-Compulsive Disorder?",
+    "options": [
+      "Exposure and Response Prevention (ERP).",
+      "Psychoanalysis.",
+      "Supportive Psychotherapy.",
+      "Interpersonal Therapy."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Family therapy is most useful in:",
+    "options": [
+      "Improving communication and resolving family conflicts.",
+      "Treating delirium.",
+      "Managing acute psychosis alone.",
+      "Treating dementia with medications."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a basic principle of Cognitive Behavioral Therapy?",
+    "options": [
+      "Thoughts, emotions, and behaviors are interconnected.",
+      "Mental illness is caused only by unconscious conflicts.",
+      "Dreams are the main source of psychological problems.",
+      "Childhood memories should always be recovered."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding psychotherapy is TRUE?",
+    "options": [
+      "Psychotherapy is useful only in psychotic disorders.",
+      "Psychotherapy can be used alone or combined with medications depending on the patient's condition.",
+      "Psychotherapy has no role in anxiety disorders.",
+      "Psychotherapy is contraindicated in depression."
+    ],
+    "correct": 1
+  }
+]

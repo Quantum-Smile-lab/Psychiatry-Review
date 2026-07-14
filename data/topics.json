@@ -1,0 +1,149 @@
+[
+  {
+    "id": "neurodevelopmental-disorders",
+    "name": "Neurodevelopmental Disorders",
+    "icon": "🧩",
+    "file": "data/topics/neurodevelopmental-disorders.json",
+    "count": 30
+  },
+  {
+    "id": "neurocognitive-disorders",
+    "name": "Neurocognitive Disorders",
+    "icon": "🧠",
+    "file": "data/topics/neurocognitive-disorders.json",
+    "count": 30
+  },
+  {
+    "id": "schizophrenia-and-related-disorders",
+    "name": "Schizophrenia and Related Disorders",
+    "icon": "🌀",
+    "file": "data/topics/schizophrenia-and-related-disorders.json",
+    "count": 48
+  },
+  {
+    "id": "depression",
+    "name": "Depression",
+    "icon": "🌧️",
+    "file": "data/topics/depression.json",
+    "count": 30
+  },
+  {
+    "id": "bipolar-disorder",
+    "name": "Bipolar Disorder",
+    "icon": "⚖️",
+    "file": "data/topics/bipolar-disorder.json",
+    "count": 29
+  },
+  {
+    "id": "suicide-self-harm",
+    "name": "Suicide & Self-harm",
+    "icon": "🕊️",
+    "file": "data/topics/suicide-self-harm.json",
+    "count": 10
+  },
+  {
+    "id": "anxiety-fear-related-disorders",
+    "name": "Anxiety/Fear-related Disorders",
+    "icon": "😰",
+    "file": "data/topics/anxiety-fear-related-disorders.json",
+    "count": 30
+  },
+  {
+    "id": "ocd",
+    "name": "OCD",
+    "icon": "🔁",
+    "file": "data/topics/ocd.json",
+    "count": 20
+  },
+  {
+    "id": "disorders-specifically-associated-with-stress",
+    "name": "Disorders Specifically Associated with Stress",
+    "icon": "⚡",
+    "file": "data/topics/disorders-specifically-associated-with-stress.json",
+    "count": 10
+  },
+  {
+    "id": "ptsd",
+    "name": "PTSD",
+    "icon": "💥",
+    "file": "data/topics/ptsd.json",
+    "count": 10
+  },
+  {
+    "id": "bodily-distress-disorder",
+    "name": "Bodily Distress Disorder",
+    "icon": "🩹",
+    "file": "data/topics/bodily-distress-disorder.json",
+    "count": 14
+  },
+  {
+    "id": "dissociative-disorders",
+    "name": "Dissociative Disorders",
+    "icon": "🪞",
+    "file": "data/topics/dissociative-disorders.json",
+    "count": 16
+  },
+  {
+    "id": "personality-disorders",
+    "name": "Personality Disorders",
+    "icon": "🎭",
+    "file": "data/topics/personality-disorders.json",
+    "count": 30
+  },
+  {
+    "id": "psychotherapy",
+    "name": "Psychotherapy",
+    "icon": "🛋️",
+    "file": "data/topics/psychotherapy.json",
+    "count": 15
+  },
+  {
+    "id": "sleep-disorders",
+    "name": "Sleep Disorders",
+    "icon": "😴",
+    "file": "data/topics/sleep-disorders.json",
+    "count": 20
+  },
+  {
+    "id": "feeding-eating-disorders",
+    "name": "Feeding/Eating Disorders",
+    "icon": "🍽️",
+    "file": "data/topics/feeding-eating-disorders.json",
+    "count": 20
+  },
+  {
+    "id": "sexual-disorders",
+    "name": "Sexual Disorders",
+    "icon": "💞",
+    "file": "data/topics/sexual-disorders.json",
+    "count": 10
+  },
+  {
+    "id": "substance-use-disorder",
+    "name": "Substance Use Disorder",
+    "icon": "💊",
+    "file": "data/topics/substance-use-disorder.json",
+    "count": 10
+  },
+  {
+    "id": "psychopharmacology-syndromes",
+    "name": "Psychopharmacology + Syndromes",
+    "icon": "💉",
+    "file": "data/topics/psychopharmacology-syndromes.json",
+    "count": 20
+  },
+  {
+    "id": "ect",
+    "name": "ECT",
+    "icon": "🔌",
+    "file": "data/topics/ect.json",
+    "count": 10
+  },
+  {
+    "id": "psychiatry-consideration-in-medical-disorders",
+    "name": "Psychiatry Consideration in Medical Disorders",
+    "icon": "🏥",
+    "file": "data/topics/psychiatry-consideration-in-medical-disorders.json",
+    "count": 11
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "A patient on risperidone complains of amenorrhea and has a negative pregnancy test. Which test will you order?",
+    "options": [
+      "CBC.",
+      "Prolactin level.",
+      "Risperidone level.",
+      "Liver function."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient receiving lithium therapy should have regular monitoring of:",
+    "options": [
+      "Liver function only.",
+      "Renal function and thyroid function.",
+      "Blood glucose only.",
+      "Serum calcium only."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Neuroleptic malignant syndrome is characterized by:",
+    "options": [
+      "Hyperreflexia and clonus.",
+      "Bradycardia and hypothermia.",
+      "Fever, muscle rigidity, autonomic instability, and elevated creatine kinase.",
+      "Pinpoint pupils and respiratory depression"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which neurotransmitter is most commonly associated with depression?",
+    "options": [
+      "Dopamine.",
+      "GABA.",
+      "Serotonin.",
+      "Acetylcholine."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is the primary mechanism of action of SSRIs?",
+    "options": [
+      "Block dopamine reuptake.",
+      "Block serotonin reuptake.",
+      "Increase GABA activity.",
+      "Block acetylcholine receptors."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common side effect of antipsychotic medications?",
+    "options": [
+      "Extrapyramidal symptoms (EPS).",
+      "Hyperthyroidism.",
+      "Cataract.",
+      "Renal failure."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient taking haloperidol develops muscle stiffness, tremor, and bradykinesia. The most likely diagnosis is:",
+    "options": [
+      "Serotonin syndrome.",
+      "Drug-induced Parkinsonism.",
+      "Neuroleptic malignant syndrome.",
+      "Tardive dyskinesia."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following medications is commonly used to treat acute dystonia caused by antipsychotics?",
+    "options": [
+      "Benztropine.",
+      "Fluoxetine.",
+      "Lithium.",
+      "Valproate."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following antipsychotics has the highest risk of causing hyperprolactinemia?",
+    "options": [
+      "Clozapine.",
+      "Risperidone.",
+      "Quetiapine.",
+      "Aripiprazole."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most serious adverse effect of clozapine?",
+    "options": [
+      "Hypertension.",
+      "Agranulocytosis.",
+      "Bradycardia.",
+      "Hyperthyroidism."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Before initiating clozapine therapy, which investigation is mandatory?",
+    "options": [
+      "ECG only.",
+      "Complete Blood Count (CBC).",
+      "Liver ultrasound.",
+      "Chest X-ray."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient receiving lithium presents with coarse tremor, vomiting, and confusion. The most likely diagnosis is:",
+    "options": [
+      "Serotonin syndrome.",
+      "Lithium toxicity.",
+      "Neuroleptic malignant syndrome.",
+      "Acute dystonia."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following medications is most commonly associated with serotonin syndrome?",
+    "options": [
+      "SSRIs.",
+      "Haloperidol.",
+      "Lithium.",
+      "Olanzapine."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a characteristic feature of Serotonin Syndrome?",
+    "options": [
+      "Lead-pipe rigidity.",
+      "Hyperreflexia and clonus.",
+      "Resting tremor only.",
+      "Pinpoint pupils."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following findings favors Neuroleptic Malignant Syndrome over Serotonin Syndrome?",
+    "options": [
+      "Hyperreflexia.",
+      "Clonus.",
+      "Lead-pipe muscle rigidity.",
+      "Diarrhea."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following antidepressants has the highest risk of causing anticholinergic side effects?",
+    "options": [
+      "Fluoxetine.",
+      "Amitriptyline.",
+      "Sertraline.",
+      "Escitalopram."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a common adverse effect of SSRIs?",
+    "options": [
+      "Sexual dysfunction.",
+      "Agranulocytosis.",
+      "Diabetes insipidus.",
+      "Tardive dyskinesia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following laboratory tests should be monitored periodically in patients taking valproate?",
+    "options": [
+      "Liver function tests.",
+      "Prolactin level.",
+      "Serum calcium.",
+      "Vitamin B12 level."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following medications has the greatest risk of causing weight gain among atypical antipsychotics?",
+    "options": [
+      "Aripiprazole.",
+      "Olanzapine.",
+      "Ziprasidone.",
+      "Haloperidol."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following statements regarding psychotropic medications is TRUE?",
+    "options": [
+      "Lithium requires regular monitoring of renal and thyroid function.",
+      "SSRIs commonly cause agranulocytosis.",
+      "Clozapine does not require blood monitoring.",
+      "Neuroleptic Malignant Syndrome is characterized by hyperreflexia and clonus."
+    ],
+    "correct": 0
+  }
+]

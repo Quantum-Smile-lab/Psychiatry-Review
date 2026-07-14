@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Psychiatry Review</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Cairo:wght@300;400;600;700&family=Cormorant+Garamond:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- خلفية النجوم -->
+<div class="stars" id="stars"></div>
+
+<!-- ===== شاشة الرئيسية ===== -->
+<div class="screen active" id="home">
+  <div class="home-inner">
+
+    <div class="brand-section">
+      <div class="batch-name" id="batchName">Psychiatry Review</div>
+      <div class="brand-line"></div>
+      <div class="welcome-text">choose a topic🧠</div>
+    </div>
+
+    <!-- كروت المواضيع -->
+    <div class="subjects-grid" id="subjectsGrid"></div>
+
+    <!-- التوقيع -->
+    <div class="signature">
+      <span class="signature-text">Created by</span>
+      <span class="signature-name">Ahmed Abdelrazek</span>
+    </div>
+
+  </div>
+</div>
+
+<!-- ===== شاشة اختيار الامتحان (سنوات سابقة) ===== -->
+<div class="screen" id="examSelect">
+  <div class="page-inner">
+
+    <button class="back-btn" id="backToHome">← Back</button>
+
+    <div class="page-header">
+      <div class="page-icon">🗓️</div>
+      <div class="page-title">Previous Exams</div>
+      <div class="page-subtitle">Select an Exam</div>
+    </div>
+
+    <div class="chapters-grid" id="examsGrid"></div>
+
+  </div>
+</div>
+
+<!-- ===== شاشة الكويز ===== -->
+<div class="screen" id="quiz">
+
+  <div class="quiz-header">
+    <button class="back-btn-quiz" id="backToPrev">← Back</button>
+    <div class="header-brand" id="quizBrand">Psychiatry Review</div>
+    <div class="quiz-stats">
+      <div class="stat-pill">Q <span id="qCurrent">1</span> / <span id="qTotal">0</span></div>
+      <div class="stat-pill">✓ <span id="qScore">0</span></div>
+    </div>
+  </div>
+
+  <div class="progress-bar-wrap">
+    <div class="progress-bar-fill" id="progressFill"></div>
+  </div>
+
+  <div class="question-wrap">
+    <div class="question-meta">
+      <div class="q-number" id="qNum">1</div>
+      <div class="q-topic-tag" id="qTopicTag">Topic</div>
+    </div>
+    <div class="question-text" id="questionText">Loading…</div>
+    <div class="options-list" id="optionsList"></div>
+    <div class="feedback-box" id="feedbackBox">
+      <span id="feedbackIcon">✓</span>
+      <span id="feedbackText"></span>
+    </div>
+    <div class="quiz-nav">
+      <button class="nav-btn btn-skip" id="btnSkip">Skip</button>
+      <button class="nav-btn btn-next" id="btnNext" style="display:none">Next →</button>
+    </div>
+  </div>
+
+</div>
+
+<!-- ===== شاشة النتيجة ===== -->
+<div class="screen" id="result">
+  <div class="result-card">
+
+    <div class="result-emoji" id="resultEmoji">🎉</div>
+    <div class="result-title" id="resultTitle">Well Done!</div>
+    <div class="result-subtitle" id="resultSubtitle">Quiz Complete</div>
+
+    <div class="score-ring">
+      <svg width="130" height="130" viewBox="0 0 130 130">
+        <defs>
+          <linearGradient id="scoreGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#6c7fff"/>
+            <stop offset="100%" style="stop-color:#3ddad0"/>
+          </linearGradient>
+        </defs>
+        <circle class="ring-bg" cx="65" cy="65" r="55"/>
+        <circle class="ring-fill" id="ringFill" cx="65" cy="65" r="55"/>
+      </svg>
+      <div class="score-text">
+        <div class="score-percent" id="scorePct">0%</div>
+        <div class="score-label">Score</div>
+      </div>
+    </div>
+
+    <div class="result-stats">
+      <div class="result-stat">
+        <div class="result-stat-val green" id="resCorrect">0</div>
+        <div class="result-stat-label">Correct</div>
+      </div>
+      <div class="result-stat">
+        <div class="result-stat-val red" id="resWrong">0</div>
+        <div class="result-stat-label">Wrong</div>
+      </div>
+      <div class="result-stat">
+        <div class="result-stat-val gold" id="resTotal">0</div>
+        <div class="result-stat-label">Total</div>
+      </div>
+    </div>
+
+    <button class="restart-btn" id="restartBtn">↺ Retry</button>
+    <button class="home-btn" id="homeBtn">🏠 Home</button>
+
+    <div class="signature" style="margin-top:24px">
+      <span class="signature-text">Created by</span>
+      <span class="signature-name">Ahmed Abdelrazek</span>
+    </div>
+
+  </div>
+
+  <div class="wrong-review-section" id="wrongReviewSection"></div>
+</div>
+
+<!-- Loading -->
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="loading-spinner"></div>
+  <div class="loading-text">Loading…</div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

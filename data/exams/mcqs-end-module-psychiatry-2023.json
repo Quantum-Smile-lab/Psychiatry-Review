@@ -1,0 +1,152 @@
+[
+  {
+    "question": "There is a requirement for diagnosis of schizophrenia.",
+    "options": [
+      "Delusions and hallucinations.",
+      "Delusions or paranoia.",
+      "Regressed behavior.",
+      "Identification."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 30-year-old single woman reports auditory hallucinations and persecutory delusions for 2 months, followed by sad mood and anhedonia. What diagnosis best fits?",
+    "options": [
+      "OCD.",
+      "Schizophrenia.",
+      "Major depressive disorder.",
+      "Bipolar I disorder, current episode manic."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A bipolar patient is dressed in red leotard and bright scarves with pleasant and excessively happy behavior. The nurse should document the mood as:",
+    "options": [
+      "Euphoric.",
+      "Irritable.",
+      "Suspicious.",
+      "Confident."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The best medications that can effectively treat bipolar disorder are:",
+    "options": [
+      "Anti-anxiety medications.",
+      "Antidepressants.",
+      "Antidepressant-antipsychotic.",
+      "Mood stabilizers."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Delirium is distinguished from dementia based on acute onset, impaired attention, and:",
+    "options": [
+      "Fluctuating course.",
+      "Steady course.",
+      "Presence of amnesia.",
+      "Presence of depression."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which is NOT a characteristic of behavior therapy?",
+    "options": [
+      "Focuses on overt and observable behavior.",
+      "Uses various conditioning techniques.",
+      "Directly modifies the patient's behavior.",
+      "Based on unconscious conflicts."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A student fears speaking in groups, avoids classes and mixing with peers because of fear of being judged. Diagnosis?",
+    "options": [
+      "Generalized anxiety disorder.",
+      "Social phobia.",
+      "Specific phobia.",
+      "Panic disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT a type of eating disorder?",
+    "options": [
+      "Anorexia nervosa.",
+      "Bulimia nervosa.",
+      "Binge eating disorder.",
+      "Body dysmorphic disorder."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Depression is a:",
+    "options": [
+      "Eating disorder.",
+      "Mood disorder.",
+      "Personality disorder.",
+      "Psychotic disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of these should you avoid if you're depressed?",
+    "options": [
+      "A supportive relationship.",
+      "Exercise.",
+      "Major decisions.",
+      "All the above."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Omar has recurrent episodes of elevated mood needing less sleep, with shorter episodes of depression, while remaining functional. Diagnosis?",
+    "options": [
+      "Bipolar and psychosis.",
+      "Bipolar I disorder.",
+      "Unipolar depression.",
+      "Cyclothymic disorder."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is NOT true about panic attacks?",
+    "options": [
+      "Panic attacks involve a misinterpretation of bodily symptoms.",
+      "Panic attacks generally last for up to 1 hour.",
+      "Panic attacks are generally harmless to your physical health.",
+      "Panic attacks do not usually occur in response to real danger."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A woman is convinced she has breast cancer despite repeated reassurance and normal investigations. Diagnosis?",
+    "options": [
+      "OCD.",
+      "Generalized anxiety disorder.",
+      "Somatic illness disorder.",
+      "Adjustment disorder."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Autism spectrum disorder (ASD) has been found to be caused by:",
+    "options": [
+      "Multiple factors including genetics and environment.",
+      "Poor prenatal care.",
+      "Oxygen deprivation during childbirth.",
+      "Extensive drug and alcohol abuse by pregnant mothers."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Within ADHD, which is NOT classified as a hyperactivity-impulsivity symptom?",
+    "options": [
+      "Rather than sitting still, squirms and fidgets.",
+      "Talks excessively.",
+      "Experiences difficulties in playing quietly.",
+      "Doesn't appear to listen when being told something or spoken to."
+    ],
+    "correct": 3
+  }
+]

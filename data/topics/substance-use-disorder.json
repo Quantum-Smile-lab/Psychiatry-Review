@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the following substances commonly produces pinpoint pupils during intoxication?",
+    "options": [
+      "Cocaine.",
+      "Amphetamine.",
+      "Opioids.",
+      "Cannabis."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which substance is most commonly associated with delirium tremens during withdrawal?",
+    "options": [
+      "Cannabis.",
+      "Alcohol.",
+      "Cocaine.",
+      "LSD."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In substance abuse, the term self-medication refers to which of the following?",
+    "options": [
+      "Amelioration of distress through substance use.",
+      "Doctors prescribing their own drugs.",
+      "Motive for using a substance.",
+      "Deciding the drug of choice."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "According to DSM-5, which of the following is NOT one of the diagnostic criteria for Substance Use Disorder?",
+    "options": [
+      "Failure to fulfill major role obligations.",
+      "Repeated legal problems due to substance use.",
+      "Tolerance or withdrawal alone.",
+      "Persistent desire or unsuccessful efforts to cut down."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following substances is most commonly associated with euphoria and pinpoint pupils during intoxication?",
+    "options": [
+      "Amphetamine.",
+      "Cocaine.",
+      "Opioids.",
+      "Cannabis."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following substances is most likely to produce withdrawal symptoms characterized by tremor, autonomic hyperactivity, and seizures?",
+    "options": [
+      "Alcohol.",
+      "LSD.",
+      "Cannabis.",
+      "Caffeine."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is the most appropriate first step in the management of a patient with suspected substance use disorder?",
+    "options": [
+      "Immediate hospitalization for all patients.",
+      "Comprehensive assessment of the pattern and severity of substance use.",
+      "Start antidepressants.",
+      "Begin Electroconvulsive Therapy (ECT)."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is considered a diagnostic criterion for Substance Use Disorder according to DSM-5?",
+    "options": [
+      "Recurrent substance use resulting in failure to fulfill major role obligations.",
+      "Occasional use during holidays.",
+      "Substance use only under medical supervision.",
+      "A single episode of intoxication."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is the most common goal of treatment for Substance Use Disorders?",
+    "options": [
+      "Improve academic performance only.",
+      "Complete abstinence and prevention of relapse.",
+      "Eliminate all psychiatric illnesses.",
+      "Increase tolerance to the substance."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following statements regarding Substance Use Disorders is TRUE?",
+    "options": [
+      "Tolerance alone is sufficient for diagnosis.",
+      "Withdrawal alone is sufficient for diagnosis.",
+      "Substance Use Disorder is characterized by continued substance use despite significant harmful consequences.",
+      "It occurs only with illegal substances."
+    ],
+    "correct": 2
+  }
+]

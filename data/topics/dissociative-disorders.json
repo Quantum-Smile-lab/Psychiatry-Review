@@ -1,0 +1,162 @@
+[
+  {
+    "question": "When an individual is unaware that they present different personalities to the world, this is known as:",
+    "options": [
+      "Dislocated identity disorder.",
+      "Disjointed identity disorder.",
+      "Missappropriate identity disorder.",
+      "Dissociative identity disorder."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of conversion disorder?",
+    "options": [
+      "It is intentionally produced.",
+      "It consists of multiple somatic complaints.",
+      "It can be limited to pain.",
+      "It involves neurological symptoms."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In Dissociative Identity Disorder, the host identity refers to which one of the following?",
+    "options": [
+      "The first one to emerge as a new identity.",
+      "The most dominant identity.",
+      "The existence before the onset of the disorder.",
+      "The most aggressive identity."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Conversion disorder: which of the following is FALSE?",
+    "options": [
+      "The patient consciously produces the symptom.",
+      "The symptom cannot be explained by a known organic etiology.",
+      "The symptom expressed is a loss or change in physical function suggesting a physical disorder.",
+      "The patient must have experienced a recent psychosocial stressor."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dissociative Identity Disorder most commonly develops in which type of patients?",
+    "options": [
+      "Patients with substance abuse.",
+      "Patients with intellectual disability.",
+      "Victims of significant childhood trauma.",
+      "Patients with clear consciousness."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is TRUE regarding Dissociative Identity Disorder?",
+    "options": [
+      "It has the best prognosis.",
+      "It is more chronic than other dissociative disorders.",
+      "It is easily cured with medication.",
+      "It is self-limited."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common precipitating factor for Dissociative Disorders?",
+    "options": [
+      "Childhood psychological trauma.",
+      "Hyperthyroidism.",
+      "Alcohol intoxication.",
+      "Intellectual disability."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is characteristic of Dissociative Amnesia?",
+    "options": [
+      "Inability to recognize familiar faces.",
+      "Inability to recall important autobiographical information.",
+      "Progressive loss of intellectual function.",
+      "Persistent auditory hallucinations."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient suddenly forgets his identity after witnessing a traumatic event, while neurological examination is normal. The most likely diagnosis is:",
+    "options": [
+      "Dementia.",
+      "Dissociative Amnesia.",
+      "Schizophrenia.",
+      "Delirium."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding Conversion Disorder?",
+    "options": [
+      "Symptoms are intentionally produced.",
+      "Neurological symptoms cannot be fully explained by a medical condition.",
+      "Patients always have impaired consciousness.",
+      "Hallucinations are essential for diagnosis."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A young woman suddenly develops paralysis of her right leg after witnessing a severe accident. Extensive investigations are normal. The most likely diagnosis is:",
+    "options": [
+      "Stroke.",
+      "Conversion Disorder.",
+      "Multiple sclerosis.",
+      "Factitious Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following symptoms is most suggestive of Conversion Disorder?",
+    "options": [
+      "Motor or sensory deficits without an identifiable neurological cause.",
+      "Progressive memory decline.",
+      "Persistent delusions.",
+      "Obsessions."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is TRUE regarding Dissociative Identity Disorder?",
+    "options": [
+      "It is characterized by the presence of two or more distinct personality states.",
+      "It is caused by schizophrenia.",
+      "It usually develops during old age.",
+      "It is characterized by progressive cognitive decline."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following disorders is most strongly associated with severe childhood abuse?",
+    "options": [
+      "Panic Disorder.",
+      "Dissociative Identity Disorder.",
+      "Bipolar Disorder.",
+      "Generalized Anxiety Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is considered the main treatment for Dissociative Disorders?",
+    "options": [
+      "Psychotherapy.",
+      "Antipsychotic medications.",
+      "Electroconvulsive Therapy.",
+      "Mood stabilizers."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding Dissociative Disorders is TRUE?",
+    "options": [
+      "They are always associated with psychosis.",
+      "Symptoms commonly occur following significant psychological stress or trauma.",
+      "They are caused by neurodegenerative diseases.",
+      "They are always intentionally produced."
+    ],
+    "correct": 1
+  }
+]

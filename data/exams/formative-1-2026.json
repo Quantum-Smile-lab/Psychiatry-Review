@@ -1,0 +1,72 @@
+[
+  {
+    "question": "A soldier experiences nightmares, intrusive memories, avoids reminders of combat, and has hypervigilance for 2 months. The most likely diagnosis is:",
+    "options": [
+      "Acute Stress Disorder",
+      "PTSD",
+      "Adjustment Disorder",
+      "Panic Disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which symptom is NOT required for DSM-5 diagnosis of Generalized Anxiety Disorder?",
+    "options": [
+      "Excessive worry",
+      "Symptoms lasting at least 6 months",
+      "Panic attacks",
+      "Difficulty controlling worry"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The most common cause of dementia worldwide is:",
+    "options": [
+      "Frontotemporal dementia",
+      "Alzheimer's disease",
+      "Lewy body dementia",
+      "Vascular dementia"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient believes strangers can hear his thoughts. This is known as:",
+    "options": [
+      "Thought withdrawal",
+      "Thought broadcasting",
+      "Thought blocking",
+      "Circumstantiality"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which symptom is considered a negative symptom of schizophrenia?",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Blunted affect",
+      "Thought insertion"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is one of the two cardinal symptoms of depression?",
+    "options": [
+      "Increased energy",
+      "Anhedonia",
+      "Hyperactivity",
+      "Grandiosity"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which mood disorder includes at least one manic episode?",
+    "options": [
+      "Persistent Depressive Disorder",
+      "Bipolar I Disorder",
+      "Bipolar II Disorder",
+      "Cyclothymic Disorder"
+    ],
+    "correct": 1
+  }
+]

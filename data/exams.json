@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mcqs-end-module-psychiatry-2023",
+    "name": "MCQs – End Module Psychiatry 2023",
+    "file": "data/exams/mcqs-end-module-psychiatry-2023.json",
+    "count": 15
+  },
+  {
+    "id": "final-2023",
+    "name": "Final 2023",
+    "file": "data/exams/final-2023.json",
+    "count": 40
+  },
+  {
+    "id": "end-module-2024",
+    "name": "END MODULE 2024",
+    "file": "data/exams/end-module-2024.json",
+    "count": 15
+  },
+  {
+    "id": "formative-1-24",
+    "name": "Formative 1 24",
+    "file": "data/exams/formative-1-24.json",
+    "count": 16
+  },
+  {
+    "id": "formative-23",
+    "name": "Formative 23",
+    "file": "data/exams/formative-23.json",
+    "count": 35
+  },
+  {
+    "id": "formative",
+    "name": "Formative",
+    "file": "data/exams/formative.json",
+    "count": 20
+  },
+  {
+    "id": "formative-25",
+    "name": "Formative 25",
+    "file": "data/exams/formative-25.json",
+    "count": 8
+  },
+  {
+    "id": "endmodule-25",
+    "name": "Endmodule 25",
+    "file": "data/exams/endmodule-25.json",
+    "count": 15
+  },
+  {
+    "id": "formative-1-2026",
+    "name": "Formative 1 2026",
+    "file": "data/exams/formative-1-2026.json",
+    "count": 7
+  },
+  {
+    "id": "final-2025",
+    "name": "Final 2025",
+    "file": "data/exams/final-2025.json",
+    "count": 40
+  }
+]

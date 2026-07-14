@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Depression is a ________.",
+    "options": [
+      "Eating disorder.",
+      "Mood disorder.",
+      "Personality disorder.",
+      "Psychotic disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of these should you avoid if you're depressed?",
+    "options": [
+      "A supportive relationship.",
+      "Exercise.",
+      "Major decisions.",
+      "All the above."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Depression is treatable. In most cases, treatment involves a combination of:",
+    "options": [
+      "Psychotherapy and medication.",
+      "Living healthy and medication.",
+      "Self-care and medication.",
+      "Psychotherapy, medications, and self-care techniques."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following drug classes is the initial drug of choice in a patient with depression?",
+    "options": [
+      "Monoamine oxidase inhibitors (MAOIs).",
+      "Norepinephrine-dopamine reuptake inhibitors.",
+      "Selective serotonin reuptake inhibitors (SSRIs).",
+      "Serotonin norepinephrine reuptake inhibitors (SNRIs)."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following antidepressants is classified as a Selective Serotonin Reuptake Inhibitor (SSRI)?",
+    "options": [
+      "Amitriptyline.",
+      "Fluoxetine.",
+      "Venlafaxine.",
+      "Bupropion."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In most cases of depression, treatment involves a combination of:",
+    "options": [
+      "Psychotherapy and medication.",
+      "Listening to patient and medication.",
+      "Self-care and medication.",
+      "Psychotherapy and medications."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Depressive disorders: the following is a feature:",
+    "options": [
+      "Anhedonia.",
+      "Optimistic thinking.",
+      "Perceptual disturbances.",
+      "Normal attention and concentration."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In the opening clinical case, a patient reported feeling a lack of energy, difficulty sleeping, loss of appetite, difficulty concentrating, and a loss of interest in activities he previously enjoyed. Based on this information, which of the following is the most likely diagnosis?",
+    "options": [
+      "Major depressive disorder.",
+      "Bipolar disorder.",
+      "Generalized anxiety disorder.",
+      "Schizophrenia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is NOT true about major depression?",
+    "options": [
+      "It affects about 10% of the population.",
+      "It is more common in men.",
+      "Symptoms must be present for at least two weeks to establish the diagnosis.",
+      "It is more common in individuals with a family history of depression."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "According to DSM-5, for Major Depressive Disorder, which symptom must be present among the required symptoms?",
+    "options": [
+      "Diminished concentration.",
+      "Worthlessness.",
+      "Excessive guilt.",
+      "Depressed mood or anhedonia."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following neurotransmitters is most strongly implicated in the pathophysiology of Major Depressive Disorder?",
+    "options": [
+      "Dopamine.",
+      "Acetylcholine.",
+      "Serotonin.",
+      "Histamine."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is considered a biological symptom of depression?",
+    "options": [
+      "Grandiosity.",
+      "Increased energy.",
+      "Early morning awakening.",
+      "Flight of ideas."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A 35-year-old woman has depressed mood, anhedonia, insomnia, poor appetite, and feelings of worthlessness for 3 weeks. The most likely diagnosis is:",
+    "options": [
+      "Adjustment disorder.",
+      "Major depressive disorder.",
+      "Cyclothymic disorder.",
+      "Generalized anxiety disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is considered a cognitive symptom of depression?",
+    "options": [
+      "Pressure of speech.",
+      "Poor concentration.",
+      "Hyperactivity.",
+      "Hallucinations."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most serious complication of Major Depressive Disorder?",
+    "options": [
+      "Weight gain.",
+      "Hypertension.",
+      "Suicide.",
+      "Dementia."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following antidepressants belongs to the SSRI group?",
+    "options": [
+      "Amitriptyline.",
+      "Fluoxetine.",
+      "Imipramine.",
+      "Clomipramine."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following symptoms is NOT included in the DSM-5 diagnostic criteria for Major Depressive Disorder?",
+    "options": [
+      "Feelings of worthlessness.",
+      "Diminished concentration.",
+      "Elevated mood.",
+      "Sleep disturbance."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A patient with depression believes that he has committed an unforgivable sin despite evidence to the contrary. This is an example of:",
+    "options": [
+      "Delusion of persecution.",
+      "Delusion of guilt.",
+      "Delusion of grandeur.",
+      "Thought insertion."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is most likely to indicate severe depression?",
+    "options": [
+      "Mild insomnia.",
+      "Psychotic symptoms.",
+      "Occasional sadness.",
+      "Mild anxiety."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following patients requires the most urgent psychiatric intervention?",
+    "options": [
+      "A patient with mild insomnia.",
+      "A patient expressing active suicidal intent.",
+      "A patient with decreased appetite.",
+      "A patient complaining of fatigue."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding depression?",
+    "options": [
+      "It is more common in men.",
+      "Women are affected more frequently than men.",
+      "It always has an identifiable cause.",
+      "It never recurs after treatment."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the treatment of choice for severe depression with suicidal risk?",
+    "options": [
+      "Cognitive Behavioral Therapy alone.",
+      "Benzodiazepines.",
+      "Electroconvulsive Therapy (ECT).",
+      "Methylphenidate."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A patient with depression reports waking up every day at 4 a.m. and being unable to return to sleep. This is known as:",
+    "options": [
+      "Initial insomnia.",
+      "Middle insomnia.",
+      "Terminal insomnia.",
+      "Hypersomnia."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following antidepressants is classified as a Tricyclic Antidepressant (TCA)?",
+    "options": [
+      "Sertraline.",
+      "Escitalopram.",
+      "Amitriptyline.",
+      "Venlafaxine."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a common somatic symptom of depression?",
+    "options": [
+      "Increased appetite and increased sleep.",
+      "Loss of appetite.",
+      "Hyperactivity.",
+      "Increased libido."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following symptoms is essential for the diagnosis of Major Depressive Disorder?",
+    "options": [
+      "Psychomotor retardation.",
+      "Feelings of guilt.",
+      "Depressed mood or loss of interest.",
+      "Suicidal ideation."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is considered a risk factor for Major Depressive Disorder?",
+    "options": [
+      "Positive family history.",
+      "Male gender.",
+      "High socioeconomic status.",
+      "Hyperthyroidism treatment."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient has persistent depressed mood for more than two years without any manic episodes. The most likely diagnosis is:",
+    "options": [
+      "Bipolar II disorder.",
+      "Persistent Depressive Disorder (Dysthymia).",
+      "Cyclothymic disorder.",
+      "Adjustment disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common age group for the onset of Major Depressive Disorder?",
+    "options": [
+      "Early childhood.",
+      "Adolescence only.",
+      "Young adulthood.",
+      "Late adulthood only."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is TRUE regarding antidepressant treatment?",
+    "options": [
+      "Improvement usually occurs within 24 hours.",
+      "Antidepressants should be discontinued once symptoms improve after one week.",
+      "Clinical improvement usually requires several weeks of treatment.",
+      "SSRIs are contraindicated in depression."
+    ],
+    "correct": 2
+  }
+]

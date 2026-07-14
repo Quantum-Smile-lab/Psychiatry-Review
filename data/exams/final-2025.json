@@ -1,0 +1,402 @@
+[
+  {
+    "question": "The criteria for substance use disorder by the DSM-5 include all of the following EXCEPT:",
+    "options": [
+      "Failure to meet obligations",
+      "Repeated legal problems due to substance use",
+      "Craving",
+      "Hazardous use"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Heroin is broadly classified as:",
+    "options": [
+      "Hallucinogen",
+      "Pain reliever",
+      "Stimulant",
+      "Barbiturate"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A concern about the DSM-5 classification system for personality disorders is that:",
+    "options": [
+      "About half of employed people meet criteria",
+      "Some personality disorders are rare in the community",
+      "Many people with severe personality problems don't fit any one personality disorder diagnosis",
+      "All of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is identified as a warning sign for suicide?",
+    "options": [
+      "Sudden calmness",
+      "Lack of a recent trauma",
+      "An increase in social activity",
+      "Maintaining a stable sleep pattern"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mental state examination includes the following EXCEPT:",
+    "options": [
+      "Appearance",
+      "Thought",
+      "Affect",
+      "Diagnosis and treatment"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which stage of sleep is characterized by the deepest sleep requiring the most significant stimulus to wake a person?",
+    "options": [
+      "Stage I",
+      "Stage II",
+      "Stages III and IV",
+      "REM sleep"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "According to the DSM-5, which is the primary criterion for insomnia disorder?",
+    "options": [
+      "Excessive daytime sleepiness",
+      "Dissatisfaction with sleep quantity or quality",
+      "Irresistible sleep attacks",
+      "Sleep disruption from a breathing issue"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is a key characteristic of a psychiatric illness secondary to a general medical condition?",
+    "options": [
+      "Symptoms are caused by psychological trauma",
+      "Illness is a separate comorbid condition",
+      "Symptoms are a direct physiological consequence of the medical condition",
+      "Illness is psychosomatic"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the most common psychiatric disorder associated with Cushing's syndrome?",
+    "options": [
+      "Anxiety disorder",
+      "Depression",
+      "Schizophrenia",
+      "Bipolar disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT listed as a symptom of a manic or hypomanic episode?",
+    "options": [
+      "Dangerous activities",
+      "Increased energy",
+      "Insomnia",
+      "Routine thoughts"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "At what age does schizophrenia typically have its peak onset for men?",
+    "options": [
+      "15–25 years",
+      "25–35 years",
+      "35–45 years",
+      "45–55 years"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the primary intent of non-suicidal self-injury?",
+    "options": [
+      "To permanently escape emotional pain",
+      "To get immediate relief from negative emotions",
+      "To aggravate psychological pain",
+      "To involve more lethal methods"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "When assessing a patient for possible psychiatric illness due to a medical condition, what is a clue?",
+    "options": [
+      "Subject of potential psychiatric illness",
+      "Assuming primary psychiatric disorder",
+      "Taking detailed history of the medical illness and medication use",
+      "Focusing on psychological stressors"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is a key feature of psychiatric symptoms related to a medical condition?",
+    "options": [
+      "Persist despite treatment",
+      "Typically resolve once the underlying medical condition is treated",
+      "Always identical to primary psychiatric disorders",
+      "Not affected by physical health"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which condition is listed as an indication for supportive psychotherapy?",
+    "options": [
+      "Acute manic episodes",
+      "Patients lacking intellectual ability for deeper expressive therapy",
+      "Chronic schizophrenia",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT listed as an indication for group psychotherapy?",
+    "options": [
+      "Acute manic episodes",
+      "Substance abuse disorders",
+      "PTSD",
+      "Depressive disorders"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is listed as a negative symptom of schizophrenia according to DSM-5?",
+    "options": [
+      "Delusions",
+      "Disorganized speech",
+      "Diminished motivation or emotional expression",
+      "Hallucinations"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which statement best describes Illness Anxiety Disorder?",
+    "options": [
+      "Severe physical symptoms",
+      "Easily reassured by negative investigations",
+      "Preoccupation with having or acquiring a serious illness",
+      "Not focused on physical symptoms"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which symptom is characteristic of Conversion Disorder?",
+    "options": [
+      "Pseudoseizures without incontinence or tongue biting",
+      "Sensory loss following a recognized nerve distribution",
+      "Weakness due to spinal cord injury",
+      "Aphasia from vocal cord paralysis"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Acute Stress Disorder is a reaction that occurs after trauma and lasts for:",
+    "options": [
+      "More than one month",
+      "Less than a month",
+      "At least one year",
+      "Three to six months"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is a key feature of avoidance behaviors in Acute Stress Disorder and PTSD?",
+    "options": [
+      "Vividly remembering the trauma",
+      "Seeking reminders",
+      "Recurrent distressing dreams",
+      "Staying away from people, places, or objects that remind of the trauma"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the main aim of Cognitive Behavioral Therapy (CBT)?",
+    "options": [
+      "Help maintain equilibrium",
+      "Encourage personality growth",
+      "Identify and correct cognitive distortions and maladaptive behaviors",
+      "Help family members understand patients"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Patients with somatic symptom disorder may believe they have a severe but undetected disease. This conviction persists despite:",
+    "options": [
+      "Family reassurance",
+      "Negative laboratory results and reassurance from physicians",
+      "Critical understanding of symptoms",
+      "Absence of physical symptoms"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which statement is characteristic of OCD?",
+    "options": [
+      "Patients deny obsessions",
+      "Patients recognize obsessions are irrational while still feeling driven by them",
+      "Patients always have both obsessions and compulsions",
+      "Symptoms are always due to substances"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a symptom of inattention in ADHD?",
+    "options": [
+      "Can't wait his turn",
+      "Fidgeting excessively",
+      "Makes careless mistakes",
+      "Blurts out answers"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which neurotransmitters are suggested to be linked to bipolar disorder?",
+    "options": [
+      "Acetylcholine",
+      "Dopamine and norepinephrine",
+      "GABA",
+      "Endorphins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Panic attacks generally last:",
+    "options": [
+      "Less than 10 minutes",
+      "20–30 minutes",
+      "More than an hour",
+      "Several hours"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the main difference between anxiety and fear?",
+    "options": [
+      "Fear is a response to an immediate threat, anxiety is apprehension about a future threat",
+      "Anxiety is immediate, fear is future-oriented",
+      "Anxiety is physiological only",
+      "Fear is psychological only"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The key feature of Generalized Anxiety Disorder is:",
+    "options": [
+      "Specific phobias",
+      "Fear of social situations",
+      "Uncontrollable and excessive worry about several situations",
+      "Recurrent panic attacks"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Dissociation can be defined as a disruption in the integrated sense of:",
+    "options": [
+      "Memory",
+      "Self",
+      "Personality",
+      "Identity"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which is a key feature of Dissociative Amnesia?",
+    "options": [
+      "Inability to remember procedural memory",
+      "Caused by physiological effects of substances",
+      "Often due to anxiety or medical illness",
+      "Usually inconsistent with ordinary forgetfulness"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Dissociative fugue is characterized by:",
+    "options": [
+      "Inability to remember procedural information",
+      "Sudden unexpected travel away from home",
+      "Feeling of being an outside observer",
+      "Presence of multiple identities"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Atypical antipsychotics may be used in ASD to help with:",
+    "options": [
+      "Reasoning focus",
+      "Reducing anxiety",
+      "Improving social skills",
+      "Aggression and agitation"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Intellectual disability is characterized by significant limitations in:",
+    "options": [
+      "Social skills and physical coordination",
+      "Intellectual functioning and adaptive behavior",
+      "Academic skills and motor movements",
+      "Attention span and communication"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The most common chromosomal cause of intellectual disability is:",
+    "options": [
+      "Trisomy 21 (Down syndrome)",
+      "Fragile X syndrome",
+      "Prader-Willi syndrome",
+      "Turner syndrome"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dissociative Identity Disorder frequently develops in:",
+    "options": [
+      "Patients with substance abuse",
+      "Patients with intellectual disability",
+      "Victims of significant childhood trauma",
+      "Patients with clear consciousness"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The prognosis of Dissociative Identity Disorder compared with other dissociative disorders:",
+    "options": [
+      "Best prognosis",
+      "Similar prognosis",
+      "Easily cured with medication",
+      "Worst prognosis"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "According to DSM-5, for Major Depressive Episode, one required symptom is:",
+    "options": [
+      "Diminished concentration",
+      "Worthlessness",
+      "Excessive guilt",
+      "Depressed mood or anhedonia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Prior to the onset of bulimia, sufferers often:",
+    "options": [
+      "Had anorexia nervosa",
+      "Were obese",
+      "Attempted suicide",
+      "Had high serotonin levels"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "When a patient counts backward by 7 starting from 100, this tests:",
+    "options": [
+      "Mathematical abilities",
+      "Remote memory",
+      "Concentration",
+      "Fund of knowledge"
+    ],
+    "correct": 2
+  }
+]

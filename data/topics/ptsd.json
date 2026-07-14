@@ -1,0 +1,102 @@
+[
+  {
+    "question": "A soldier experiences nightmares, intrusive memories, avoids reminders of combat, and has hypervigilance for 2 months. The most likely diagnosis is:",
+    "options": [
+      "Acute Stress Disorder.",
+      "PTSD.",
+      "Adjustment Disorder.",
+      "Panic Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is required for the diagnosis of Post-Traumatic Stress Disorder (PTSD)?",
+    "options": [
+      "Exposure to a traumatic event.",
+      "Presence of psychotic symptoms.",
+      "Symptoms lasting less than one week.",
+      "History of substance abuse."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "According to DSM-5, symptoms of PTSD must persist for at least:",
+    "options": [
+      "2 weeks.",
+      "1 month.",
+      "3 months.",
+      "6 months."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is considered an intrusion symptom of PTSD?",
+    "options": [
+      "Emotional numbness.",
+      "Flashbacks.",
+      "Social withdrawal.",
+      "Delusions."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient avoids driving after surviving a serious road traffic accident because it reminds him of the traumatic event. This symptom is best described as:",
+    "options": [
+      "Compulsion.",
+      "Avoidance.",
+      "Delusion.",
+      "Dissociation."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is commonly seen in patients with PTSD?",
+    "options": [
+      "Hypervigilance.",
+      "Elevated mood.",
+      "Grandiosity.",
+      "Flight of ideas."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A soldier who survived combat experiences recurrent nightmares, exaggerated startle response, and irritability for the past 3 months. The most likely diagnosis is:",
+    "options": [
+      "Acute Stress Disorder.",
+      "PTSD.",
+      "Panic Disorder.",
+      "Generalized Anxiety Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following psychotherapies is considered first-line treatment for PTSD?",
+    "options": [
+      "Cognitive Behavioral Therapy (trauma-focused CBT).",
+      "Psychoanalysis.",
+      "Supportive psychotherapy only.",
+      "Electroconvulsive Therapy."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following medications is considered first-line pharmacological treatment for PTSD?",
+    "options": [
+      "SSRIs.",
+      "Haloperidol.",
+      "Lithium.",
+      "Carbamazepine."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following symptoms is most characteristic of PTSD?",
+    "options": [
+      "Intrusive memories of the traumatic event.",
+      "Persistent elevated mood.",
+      "Auditory hallucinations.",
+      "Compulsive hand washing."
+    ],
+    "correct": 0
+  }
+]

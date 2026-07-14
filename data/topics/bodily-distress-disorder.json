@@ -1,0 +1,142 @@
+[
+  {
+    "question": "A 37-year-old woman returns to her GP, reporting that she is certain that she has breast cancer. She requested further investigations in order to confirm the diagnosis. This is despite her GP having performed the appropriate tests previously and referred her to a Surgeon for a second opinion. The GP continues to reassure her that she doesn't have cancer. What is the most probable diagnosis?",
+    "options": [
+      "OCD.",
+      "Generalized Anxiety Disorder.",
+      "Somatic illness disorder.",
+      "Adjustment disorder."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A 37-year-old woman returns to her GP, reporting that she is certain that she has breast cancer. She requested further investigations in order to confirm the diagnosis despite previous normal investigations and reassurance. What is the most probable diagnosis?",
+    "options": [
+      "OCD.",
+      "Generalized anxiety disorder.",
+      "Somatic symptom disorder.",
+      "Adjustment disorder."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A 20-year-old female complains of a mild sore throat with excessive worry about having laryngeal carcinoma. She repeatedly seeks medical reassurance despite being told that nothing is wrong. What is the most probable diagnosis?",
+    "options": [
+      "Illness Anxiety Disorder.",
+      "Factitious disorder.",
+      "Somatic Symptom Disorder.",
+      "Somatic delusion."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Patients with Somatic Symptom Disorder may believe they have a severe but undetected disease. This conviction persists despite:",
+    "options": [
+      "Only reassurance from family and friends.",
+      "Negative laboratory results and repeated reassurance from physicians.",
+      "A chronic progressive nature of symptoms.",
+      "Absence of any physical symptoms."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following best describes Body Dysmorphic Disorder (BDD)?",
+    "options": [
+      "Excessive concern about an imagined or slight defect in appearance.",
+      "Fear of gaining weight.",
+      "Fear of contamination.",
+      "Persistent fear of having a serious medical illness."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A 22-year-old woman spends several hours each day checking mirrors because she believes her nose is deformed despite reassurance that it appears normal. The most likely diagnosis is:",
+    "options": [
+      "Obsessive-Compulsive Disorder.",
+      "Body Dysmorphic Disorder.",
+      "Illness Anxiety Disorder.",
+      "Major Depressive Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following behaviors is most commonly associated with Body Dysmorphic Disorder?",
+    "options": [
+      "Mirror checking.",
+      "Sleepwalking.",
+      "Compulsive stealing.",
+      "Food restriction."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following disorders belongs to the Obsessive-Compulsive and Related Disorders group?",
+    "options": [
+      "Body Dysmorphic Disorder.",
+      "Panic Disorder.",
+      "Generalized Anxiety Disorder.",
+      "PTSD."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Patients with Body Dysmorphic Disorder most commonly believe that:",
+    "options": [
+      "They have a severe medical illness.",
+      "They have a defect in their physical appearance.",
+      "They are being followed by strangers.",
+      "Their thoughts are controlled by others."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is considered first-line pharmacological treatment for Body Dysmorphic Disorder?",
+    "options": [
+      "SSRIs.",
+      "Haloperidol.",
+      "Lithium.",
+      "Diazepam."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following psychotherapies is considered effective in Body Dysmorphic Disorder?",
+    "options": [
+      "Cognitive Behavioral Therapy (CBT).",
+      "Psychoanalysis.",
+      "Family therapy.",
+      "Electroconvulsive Therapy."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient repeatedly seeks cosmetic surgery for a minimal facial imperfection but remains dissatisfied after each procedure. The most likely diagnosis is:",
+    "options": [
+      "Illness Anxiety Disorder.",
+      "Body Dysmorphic Disorder.",
+      "Somatic Symptom Disorder.",
+      "Delusional Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following differentiates Body Dysmorphic Disorder from Anorexia Nervosa?",
+    "options": [
+      "Patients with BDD are primarily preoccupied with perceived defects in appearance other than body weight.",
+      "BDD occurs only in females.",
+      "Weight loss is essential for diagnosing BDD.",
+      "Patients with BDD never perform repetitive behaviors."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding Body Dysmorphic Disorder is TRUE?",
+    "options": [
+      "The perceived physical defect is usually obvious to everyone.",
+      "Symptoms often lead to significant distress and impairment in daily functioning.",
+      "Cosmetic surgery is usually curative.",
+      "Insight is always absent."
+    ],
+    "correct": 1
+  }
+]

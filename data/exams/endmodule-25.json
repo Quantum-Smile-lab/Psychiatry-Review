@@ -1,0 +1,152 @@
+[
+  {
+    "question": "The most common type of hallucination is:",
+    "options": [
+      "Auditory",
+      "Visual",
+      "Olfactory",
+      "Tactile"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following does NOT represent a negative symptom of schizophrenia?",
+    "options": [
+      "Affective flattening",
+      "Decreased motivation",
+      "Sadness over loss of functionality",
+      "Social disinterest"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Ramy has been diagnosed with depression and started on medications. He now presents with elevated mood, decreased need for sleep and increased energy. The most common diagnosis is:",
+    "options": [
+      "Substance-induced bipolar disorder",
+      "Bipolar II disorder",
+      "Bipolar I disorder",
+      "Cyclothymic disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The common medications that can effectively treat depression in Bipolar I patient:",
+    "options": [
+      "Mood stabilizers",
+      "Antidepressants",
+      "Antidepressant-antipsychotic",
+      "Anti-anxiety medications"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The following are reversible types of dementia EXCEPT:",
+    "options": [
+      "Alzheimer's dementia",
+      "Alcohol-related dementias",
+      "Subdural hematoma",
+      "Metabolic dementia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which is NOT a characteristic of Behavior Therapy?",
+    "options": [
+      "Focuses on overt and observable behavior",
+      "Uses various conditioning techniques",
+      "Directly modifies the patient's behavior",
+      "Based on correction of cognitive errors"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A 45-year-old woman developed fear of eating after a choking episode, leading to weight loss. Diagnosis:",
+    "options": [
+      "Bulimia nervosa",
+      "Anorexia nervosa",
+      "Avoidant/Restrictive Food Intake Disorder (ARFID)",
+      "Binge-eating disorder"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of these is a symptom of depression?",
+    "options": [
+      "Fear of criticism",
+      "Unexplained anger",
+      "Loss of interest",
+      "Fast mood swings"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Treatment of social phobia involves a combination of:",
+    "options": [
+      "Psychotherapy and medication",
+      "Listening to patient and medication",
+      "Self-care and medication",
+      "Psychotherapy, medications, and self-care techniques"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Dissociative disorders include all the following EXCEPT:",
+    "options": [
+      "Depersonalization",
+      "Derealization",
+      "Fugue",
+      "Dramatization"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A 22-year-old student reports excessive worry about everyday activities, poor concentration, insomnia and headache despite reassurance. Diagnosis:",
+    "options": [
+      "Somatic symptom disorder",
+      "Generalized Anxiety Disorder",
+      "Acute stress disorder",
+      "Adjustment disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 20-year-old woman repeatedly seeks reassurance that she does not have laryngeal carcinoma despite minimal symptoms. Diagnosis:",
+    "options": [
+      "Illness anxiety disorder",
+      "Factitious disorder",
+      "Somatic symptom disorder",
+      "Somatic delusion"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A 30-year-old immigrant hears neighbors talking about and threatening her despite living far away. Diagnosis:",
+    "options": [
+      "Delusional disorder",
+      "Acute psychotic disorder",
+      "Schizophrenia",
+      "Adjustment disorder"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Autism spectrum disorder (ASD) can generally be diagnosed:",
+    "options": [
+      "By 18–24 months old",
+      "At birth",
+      "Between the ages of 5 and 8",
+      "In utero"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Within ADHD, which of the following is NOT classified as a problem relating to poor attention?",
+    "options": [
+      "Appears routinely forgetful",
+      "Easily distracted",
+      "Dislikes tasks involving mental effort",
+      "Experiences difficulties in waiting in turn"
+    ],
+    "correct": 3
+  }
+]

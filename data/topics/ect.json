@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Electroconvulsive therapy (ECT) is the treatment of choice in:",
+    "options": [
+      "Hysteria.",
+      "Catatonic schizophrenia.",
+      "OCD.",
+      "Depression with suicidal tendency."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is the most common indication for Electroconvulsive Therapy (ECT)?",
+    "options": [
+      "Severe Major Depressive Disorder.",
+      "Generalized Anxiety Disorder.",
+      "Specific Phobia.",
+      "Personality Disorder."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is considered an emergency indication for ECT?",
+    "options": [
+      "Mild depression.",
+      "Depression with suicidal risk.",
+      "Panic Disorder.",
+      "Somatic Symptom Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following psychiatric disorders may respond well to ECT?",
+    "options": [
+      "Catatonic schizophrenia.",
+      "Obsessive-Compulsive Personality Disorder.",
+      "Specific Phobia.",
+      "Autism Spectrum Disorder."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is TRUE regarding ECT?",
+    "options": [
+      "It is performed without anesthesia.",
+      "It is administered under general anesthesia with muscle relaxation.",
+      "It causes permanent memory loss in all patients.",
+      "It is contraindicated in all elderly patients."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common adverse effect of ECT?",
+    "options": [
+      "Agranulocytosis.",
+      "Temporary memory impairment.",
+      "Renal failure.",
+      "Parkinsonism."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following patients is the best candidate for ECT?",
+    "options": [
+      "A patient with mild anxiety.",
+      "A patient with severe depression who has not responded to medications.",
+      "A patient with insomnia only.",
+      "A patient with Specific Phobia."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following statements regarding ECT is FALSE?",
+    "options": [
+      "It can be life-saving in severe depression.",
+      "It may be indicated in catatonia.",
+      "It is considered the first-line treatment for Generalized Anxiety Disorder.",
+      "It is effective in some severe mood disorders."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is an important pre-ECT assessment?",
+    "options": [
+      "Medical evaluation and fitness for anesthesia.",
+      "Skin biopsy.",
+      "Bone marrow aspiration.",
+      "Lumbar puncture."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following statements regarding Electroconvulsive Therapy is TRUE?",
+    "options": [
+      "ECT is an effective treatment for selected severe psychiatric disorders, particularly severe depression and catatonia.",
+      "ECT has no role in psychiatry.",
+      "ECT is used only after every psychotropic medication has failed.",
+      "ECT causes irreversible cognitive impairment in all patients."
+    ],
+    "correct": 0
+  }
+]

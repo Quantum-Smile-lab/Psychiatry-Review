@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Delirium is distinguished from dementia based on the key features of acute onset, impairment in attention, and which of the following?",
+    "options": [
+      "Fluctuating course.",
+      "Steady course.",
+      "Presence of amnesia.",
+      "Presence of depression"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pseudodementia is seen in:",
+    "options": [
+      "Alcoholism.",
+      "Depression.",
+      "Schizophrenia.",
+      "Mania."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "An 80-year-old woman with a recent diagnosis of dementia is brought to the office by her daughter... Which of the following is most appropriate to tell the daughter regarding this concern?",
+    "options": [
+      "Avoid explaining changes in routine or surroundings so as not to confuse the patient.",
+      "Avoid frequent visits by family members or friends to minimize stimulation.",
+      "Establish a routine for daily activities to reinforce orientation.",
+      "Keep the patient's room quiet, dark, and private to minimize stimulation."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is NOT a key diagnostic feature of delirium?",
+    "options": [
+      "Chronic onset.",
+      "Fluctuating course.",
+      "Impaired attention.",
+      "Cognitive disturbance."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is the cause of reversible dementia?",
+    "options": [
+      "Mania.",
+      "Depression.",
+      "Alzheimer dementia.",
+      "Vascular dementia."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Delirium is distinguished from dementia based on the key features of acute onset, impairment in attention, and which of the following?",
+    "options": [
+      "Fluctuating course.",
+      "Steady course.",
+      "Presence of amnesia.",
+      "Presence of depression."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The most common type of dementia is:",
+    "options": [
+      "Dementia of the Alzheimer type (Alzheimer disease).",
+      "Alcohol-related dementia.",
+      "Vascular dementia.",
+      "Metabolic dementia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dementia, in general, is BEST described as:",
+    "options": [
+      "Global impairment.",
+      "Impaired memory for personal events.",
+      "Personality change.",
+      "Progressive deterioration."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "When a patient is asked to count backward by 7s starting from 100, this test primarily assesses:",
+    "options": [
+      "Mathematical ability.",
+      "Concentration.",
+      "Memory.",
+      "Fund of knowledge."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following drugs is most commonly associated with precipitating delirium in hospitalized elderly patients?",
+    "options": [
+      "Acetaminophen.",
+      "Benzodiazepines.",
+      "SSRIs.",
+      "Statins."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the most appropriate initial management of a patient with delirium?",
+    "options": [
+      "Antipsychotic medication.",
+      "Environmental modification and treatment of the underlying cause.",
+      "Physical restraints.",
+      "Start cholinesterase inhibitors."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient is noted to have memory loss, personality changes, and disinhibition. What is the most likely diagnosis?",
+    "options": [
+      "Alzheimer's disease.",
+      "Frontotemporal dementia.",
+      "Normal aging.",
+      "Delirium."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is most associated with a stepwise deterioration in cognition?",
+    "options": [
+      "Alzheimer's disease.",
+      "Lewy body dementia.",
+      "Frontotemporal dementia.",
+      "Vascular dementia."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is the most characteristic symptom of dementia compared to normal aging?",
+    "options": [
+      "Occasional forgetfulness.",
+      "Memory loss affecting daily activities.",
+      "Difficulty recalling names occasionally.",
+      "Slower processing speed."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which medication class is commonly used to manage cognitive symptoms in Alzheimer's disease?",
+    "options": [
+      "Antipsychotics.",
+      "Cholinesterase inhibitors.",
+      "Benzodiazepines.",
+      "Beta blockers."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT a cognitive domain assessed in Neurocognitive Disorders according to DSM-5?",
+    "options": [
+      "Learning and memory.",
+      "Complex attention.",
+      "Motor strength.",
+      "Executive function."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is a reversible cause of Neurocognitive Disorder (dementia)?",
+    "options": [
+      "Alzheimer's disease.",
+      "Vitamin B12 deficiency.",
+      "Lewy body dementia.",
+      "Frontotemporal dementia."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most important clinical feature that distinguishes delirium from dementia?",
+    "options": [
+      "Memory impairment.",
+      "Impaired judgment.",
+      "Disturbance in attention and awareness.",
+      "Personality change."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following patients is at the greatest risk of developing delirium?",
+    "options": [
+      "A healthy 20-year-old after minor surgery.",
+      "An elderly hospitalized patient with multiple medical illnesses.",
+      "A teenager with ADHD.",
+      "A patient with personality disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding Alzheimer's disease?",
+    "options": [
+      "It has a sudden onset.",
+      "It is the most common cause of dementia.",
+      "It is completely reversible.",
+      "It usually presents with visual hallucinations first."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which cognitive domain is usually affected earliest in Alzheimer's disease?",
+    "options": [
+      "Language.",
+      "Executive function.",
+      "Recent memory.",
+      "Visuospatial ability."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is most suggestive of delirium rather than dementia?",
+    "options": [
+      "Progressive memory decline.",
+      "Stable cognitive impairment.",
+      "Fluctuating level of consciousness.",
+      "Preserved attention."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A patient develops acute confusion, poor attention, and visual hallucinations one day after major surgery. The most likely diagnosis is:",
+    "options": [
+      "Alzheimer's disease.",
+      "Major depressive disorder.",
+      "Delirium.",
+      "Frontotemporal dementia."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following is the cornerstone of preventing delirium in hospitalized elderly patients?",
+    "options": [
+      "Routine benzodiazepines.",
+      "Orientation and supportive environmental measures.",
+      "Physical restraints.",
+      "Cholinesterase inhibitors."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is most characteristic of Frontotemporal Dementia?",
+    "options": [
+      "Early prominent behavioral and personality changes.",
+      "Early severe impairment of consciousness.",
+      "Sudden onset after infection.",
+      "Predominant impairment of attention."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following conditions is considered a potentially reversible cause of cognitive impairment?",
+    "options": [
+      "Alzheimer's disease.",
+      "Vascular dementia.",
+      "Vitamin B12 deficiency.",
+      "Frontotemporal dementia."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A patient with dementia becomes increasingly confused every evening. This phenomenon is known as:",
+    "options": [
+      "Confabulation.",
+      "Sundowning.",
+      "Catatonia.",
+      "Dissociation."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following neurotransmitters is most deficient in Alzheimer's disease?",
+    "options": [
+      "Dopamine.",
+      "GABA.",
+      "Acetylcholine.",
+      "Glutamate."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which of the following medications is commonly used in the treatment of Alzheimer's disease?",
+    "options": [
+      "Haloperidol.",
+      "Donepezil.",
+      "Diazepam.",
+      "Carbamazepine."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a common feature of Major Neurocognitive Disorder?",
+    "options": [
+      "Cognitive decline that interferes with independence.",
+      "Cognitive decline without functional impairment.",
+      "Symptoms lasting less than one week.",
+      "Normal activities of daily living despite severe memory loss."
+    ],
+    "correct": 0
+  }
+]

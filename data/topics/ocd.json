@@ -1,0 +1,202 @@
+[
+  {
+    "question": "For the healthcare professional to make a diagnosis, the problem had to persist for a minimum of:",
+    "options": [
+      "6 months and occur 50% to 75% of the time.",
+      "6 months and occur 75% to 100% of the time.",
+      "3 months and occur 75% to 100% of the time.",
+      "3 months and occur 50% to 75% of the time."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ego-dystonic means thoughts and actions are:",
+    "options": [
+      "Rational or excessive.",
+      "Irrational or excessive.",
+      "Accompanied by hallucination.",
+      "Accompanied by delusion."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "MONA, a 28-year-old woman, presented with repetitive thoughts and preoccupation related to short stature and facial deformity. She repeatedly checked the mirror and sought reassurance. The most common diagnosis is:",
+    "options": [
+      "Obsessive-Compulsive Disorder.",
+      "Body Dysmorphic Disorder.",
+      "Hoarding Disorder.",
+      "Hair-pulling disorder (Trichotillomania)."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Obsessions in obsessive-compulsive disorder may present as:",
+    "options": [
+      "Hallucinations.",
+      "Mental images.",
+      "Delusions.",
+      "Panic attacks disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The disorder characterized by acquiring things that are deemed to be of little or no value, resulting in excessive clutter of living spaces is called:",
+    "options": [
+      "Hoarding disorder.",
+      "Collection disorder.",
+      "Obsessive-compulsive disorder.",
+      "Phobic disorder."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of a patient with OCD?",
+    "options": [
+      "They are ego-syntonic and accept their obsessions.",
+      "They recognize their obsessions and/or compulsions as excessive or unreasonable (at least in many cases).",
+      "They always have both obsessions and compulsions.",
+      "Their symptoms are always due to a medical condition."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most common obsession in Obsessive-Compulsive Disorder?",
+    "options": [
+      "Contamination.",
+      "Jealousy.",
+      "Grandiosity.",
+      "Nihilistic ideas."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is the most common compulsion in OCD?",
+    "options": [
+      "Counting.",
+      "Hand washing.",
+      "Hair pulling.",
+      "Hoarding."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 25-year-old woman repeatedly checks whether the door is locked despite knowing she has already checked it several times. This behavior is best described as:",
+    "options": [
+      "Delusion.",
+      "Compulsion.",
+      "Hallucination.",
+      "Impulsivity."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding obsessions?",
+    "options": [
+      "They are experienced as pleasant thoughts.",
+      "They are intrusive, recurrent thoughts recognized as one's own.",
+      "They are fixed false beliefs.",
+      "They are auditory hallucinations."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following medications is considered first-line pharmacological treatment for OCD?",
+    "options": [
+      "SSRIs.",
+      "Haloperidol.",
+      "Lithium.",
+      "Diazepam."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following psychotherapies is considered the treatment of choice for OCD?",
+    "options": [
+      "Supportive psychotherapy.",
+      "Exposure and Response Prevention (ERP).",
+      "Psychoanalysis.",
+      "Family therapy."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A patient repeatedly washes his hands because he fears contamination, although he realizes his fear is excessive. This demonstrates:",
+    "options": [
+      "Good insight.",
+      "Delusional thinking.",
+      "Loss of reality testing.",
+      "Thought broadcasting."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following disorders is classified under Obsessive-Compulsive and Related Disorders in DSM-5?",
+    "options": [
+      "Generalized Anxiety Disorder.",
+      "Body Dysmorphic Disorder.",
+      "Panic Disorder.",
+      "Social Anxiety Disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT considered an obsessive-compulsive related disorder?",
+    "options": [
+      "Hoarding Disorder.",
+      "Trichotillomania.",
+      "Excoriation Disorder.",
+      "Specific Phobia."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following best differentiates an obsession from a delusion?",
+    "options": [
+      "Patients with obsessions usually recognize that their thoughts are excessive.",
+      "Obsessions are always auditory.",
+      "Delusions are repetitive behaviors.",
+      "Delusions improve after performing compulsions."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient spends more than three hours daily arranging objects symmetrically because he feels intense anxiety if they are misplaced. The most likely diagnosis is:",
+    "options": [
+      "Obsessive-Compulsive Disorder.",
+      "Obsessive-Compulsive Personality Disorder.",
+      "Generalized Anxiety Disorder.",
+      "Schizophrenia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is the primary purpose of compulsions in OCD?",
+    "options": [
+      "To obtain pleasure.",
+      "To reduce anxiety caused by obsessions.",
+      "To attract attention.",
+      "To improve memory."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is TRUE regarding insight in OCD?",
+    "options": [
+      "Insight is always absent.",
+      "Most patients have at least some degree of insight.",
+      "Patients always believe their obsessions are true.",
+      "Insight excludes the diagnosis of OCD."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following statements regarding Obsessive-Compulsive Disorder is TRUE?",
+    "options": [
+      "Symptoms usually interfere significantly with daily functioning.",
+      "OCD is characterized only by compulsions.",
+      "OCD is a psychotic disorder.",
+      "Patients always have poor insight."
+    ],
+    "correct": 0
+  }
+]

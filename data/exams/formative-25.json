@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Dementia is characterized primarily by:",
+    "options": [
+      "Mood swings",
+      "Loss of motor coordination",
+      "Cognitive decline",
+      "Seizures"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A hallmark early symptom of Alzheimer's disease is:",
+    "options": [
+      "Loss of appetite",
+      "Aggression",
+      "Memory loss",
+      "Hallucinations"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Delirium differs from dementia in that delirium:",
+    "options": [
+      "Persistent sadness",
+      "Increased energy",
+      "Loss of interest or pleasure",
+      "Develops rapidly and is usually reversible"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A common positive symptom of schizophrenia is:",
+    "options": [
+      "Flat affect",
+      "Social withdrawal",
+      "Hallucinations",
+      "Memory loss"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which class of drugs is typically used to treat schizophrenia?",
+    "options": [
+      "Antidepressants",
+      "Anxiolytics",
+      "Antipsychotics",
+      "Stimulants"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Delirium differs from dementia in that delirium:",
+    "options": [
+      "Has a gradual onset",
+      "Is irreversible",
+      "Develops rapidly and is usually reversible",
+      "Is progressive and chronic"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Delusions are defined as:",
+    "options": [
+      "Involuntary movements",
+      "False beliefs not based in reality",
+      "Mood swings",
+      "Nightmares"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which neurotransmitter is most commonly associated with depression?",
+    "options": [
+      "Dopamine",
+      "GABA",
+      "Serotonin",
+      "Acetylcholine"
+    ],
+    "correct": 2
+  }
+]

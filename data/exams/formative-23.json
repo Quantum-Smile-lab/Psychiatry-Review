@@ -1,0 +1,353 @@
+[
+  {
+    "question": "Misinterpretation of perceptions or experiences in schizophrenia are known as:",
+    "options": [
+      "Hallucinations",
+      "Misperceptions",
+      "Delusions",
+      "Avolition"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In schizophrenia, when an individual believes they are in danger, this is referred to as:",
+    "options": [
+      "Delusions of grandeur",
+      "Delusions of persecution",
+      "Delusions of control",
+      "Nihilistic delusions"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Bipolar disorder is what kind of disorder?",
+    "options": [
+      "Personality",
+      "Mood",
+      "Identity",
+      "Thought"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The common medications that can effectively treat bipolar disorder:",
+    "options": [
+      "Mood stabilizers",
+      "Antidepressants",
+      "Antidepressant-antipsychotic",
+      "Anti-anxiety medications"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient with lack of energy, insomnia, loss of appetite, poor concentration and loss of interest most likely has:",
+    "options": [
+      "Eating disorder",
+      "Major depressive disorder",
+      "Bipolar disorder",
+      "Generalized anxiety disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of paranoid personality disorder?",
+    "options": [
+      "Avoidance of close relationships",
+      "Avoidance of public places",
+      "Are often spontaneously aggressive to others",
+      "Often feel that they have been deeply and irreversibly betrayed by others"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is a Cluster B (Dramatic/Emotional) personality disorder?",
+    "options": [
+      "Paranoid personality disorder",
+      "Schizotypal personality disorder",
+      "Histrionic personality disorder",
+      "Schizoid personality disorder"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The three types of sleep apnea are:",
+    "options": [
+      "Daytime and nighttime sleep apnea",
+      "Obstructive, central, and complex sleep apnea",
+      "Disruptive and non-disruptive sleep apnea",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Obstructive sleep apnea is:",
+    "options": [
+      "The least common form",
+      "The least dangerous form",
+      "The most common form",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What are the two subtypes of anorexia nervosa?",
+    "options": [
+      "Restricting type and binge-eating/purging type",
+      "Energy-sparing type and binge-eating/purging type",
+      "Low-calorie/low-carbohydrate type and restricting type",
+      "Low-carbohydrate/low-fat type and restricting type",
+      "Restricting type and low-weight type"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Delirium is distinguished from dementia by acute onset, impaired attention and:",
+    "options": [
+      "Fluctuating course",
+      "Steady course",
+      "Presence of mania",
+      "Presence of depression"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is the major focus of interpersonal psychotherapy?",
+    "options": [
+      "Character change",
+      "Clarifying communication patterns",
+      "Interpreting transference",
+      "Hypnosis"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "With barbiturate and benzodiazepine intoxication, sedation is generally associated with:",
+    "options": [
+      "Slurred speech",
+      "Uncoordinated motor movements",
+      "Impairment in attention and memory",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Panic attacks are characterized by all of the following EXCEPT:",
+    "options": [
+      "Death wishes",
+      "Increased respiratory rate",
+      "Tremors",
+      "Last for few minutes"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The most common type of delusion is:",
+    "options": [
+      "Somatic delusion",
+      "Grandiose delusion",
+      "Thought insertion",
+      "Persecutory delusion"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following does NOT represent a negative symptom of schizophrenia?",
+    "options": [
+      "Affective flattening",
+      "Decreased motivation",
+      "Sadness over loss of functionality",
+      "Social disinterest"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Ramy was diagnosed with depression, then developed elated mood, less sleep and increased energy. Diagnosis:",
+    "options": [
+      "Bipolar and psychosis",
+      "Bipolar II disorder",
+      "Unipolar depression",
+      "Cyclothymic disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The common medications that effectively treat bipolar disorder:",
+    "options": [
+      "Mood stabilizers",
+      "Antidepressants",
+      "Antidepressant-antipsychotic",
+      "Anti-anxiety medications"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "A patient with loss of energy, insomnia, poor appetite, poor concentration and anhedonia most likely has:",
+    "options": [
+      "Eating disorder",
+      "Major depressive disorder",
+      "Bipolar disorder",
+      "Generalized anxiety disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of paranoid personality disorder?",
+    "options": [
+      "Avoidance of close relationships",
+      "Avoidance of public places",
+      "Are often spontaneously aggressive to others",
+      "Often feel they have been deeply and irreversibly betrayed"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is NOT true about panic attacks?",
+    "options": [
+      "Panic attacks involve misinterpretation of bodily symptoms",
+      "Panic attacks generally last for up to 1 hour",
+      "Panic attacks are generally harmless to physical health",
+      "Panic attacks do not usually occur in response to real danger"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The ability to grasp the essentials of a whole and think symbolically is called:",
+    "options": [
+      "Abstract thinking",
+      "Concrete thinking",
+      "Magical thinking",
+      "Symbolic thinking"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Ambivalence is usually seen in patients with:",
+    "options": [
+      "Depression",
+      "OCD",
+      "Bipolar disorder",
+      "Panic disorder"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Hallucinations, delusions and thought disorder are considered:",
+    "options": [
+      "Negative signs",
+      "Important signs",
+      "Logic signs",
+      "Positive signs"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Self-neglect is commonly noted in all of the following EXCEPT:",
+    "options": [
+      "Social phobia",
+      "Chronic schizophrenia",
+      "Depression",
+      "Dementia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The main criterion to diagnose Bipolar I disorder is the presence of:",
+    "options": [
+      "Depressive episode",
+      "Manic episode",
+      "Psychotic symptoms",
+      "All of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The disorder characterized by acquiring things of little or no value leading to clutter is:",
+    "options": [
+      "Hoarding disorder",
+      "Collection disorder",
+      "Obsessive-compulsive disorder",
+      "Phobic disorder"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Depressive disorder; the following is a feature:",
+    "options": [
+      "Anhedonia",
+      "Optimistic thinking",
+      "Perceptual disturbances",
+      "Normal attention and concentration"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Delusion is NOT found in:",
+    "options": [
+      "Depression",
+      "Anxiety",
+      "Schizophrenia",
+      "Mania"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In Dissociative Identity Disorder, the host identity refers to:",
+    "options": [
+      "The first one to emerge",
+      "The most dominant",
+      "The identity existing before onset of the disorder",
+      "The most aggressive"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In substance abuse, the term self-medication refers to:",
+    "options": [
+      "Amelioration of distress through substance use",
+      "Doctors prescribing their own drugs",
+      "Motive for using a substance",
+      "Deciding the drug of choice"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following characterizes avoidant/restrictive food intake disorder (ARFID)?",
+    "options": [
+      "Mostly females with onset in adolescence",
+      "Mostly males with onset in early childhood",
+      "More common in childhood and females",
+      "More common in childhood and equally common in males and females"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which of the following is a characteristic of conversion disorder?",
+    "options": [
+      "It is intentionally produced",
+      "It consists of multiple somatic complaints",
+      "It can be limited to pain",
+      "It involves neurological symptoms"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The diagnostic criteria of Autism Spectrum Disorder include all EXCEPT:",
+    "options": [
+      "Deficit in social emotional reciprocity",
+      "Deficit in non-verbal communicative behavior",
+      "Deficit in attention",
+      "Deficit in developing relationships"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Sexual dysfunction is when you're facing significant challenges related to your ability to:",
+    "options": [
+      "Understand sexuality",
+      "Experience pleasure or respond sexually",
+      "Explain your sexual interest",
+      "Helping others to have relation"
+    ],
+    "correct": 1
+  }
+]

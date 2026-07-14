@@ -1,0 +1,112 @@
+[
+  {
+    "question": "For people with chronic physical conditions, control of psychiatric symptoms by:",
+    "options": [
+      "Medication & Psychotherapy.",
+      "Correction of medical condition.",
+      "Medication only.",
+      "Support of patient only."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The following is suggestive of an organic cause of the behavioral symptoms:",
+    "options": [
+      "Formal thought disorder.",
+      "Auditory hallucinations.",
+      "Delusion of guilt.",
+      "Prominent visual hallucinations"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is a key characteristic of a psychiatric illness secondary to a general medical condition?",
+    "options": [
+      "Symptoms are caused by psychological trauma.",
+      "Illness is a separate comorbid condition.",
+      "Symptoms are a direct physiological consequence of the medical condition.",
+      "Illness is a psychosomatic disorder."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which psychiatric disorder is most commonly associated with Cushing's syndrome?",
+    "options": [
+      "Anxiety disorder.",
+      "Depression.",
+      "Schizophrenia.",
+      "Bipolar disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "When assessing a patient for a possible psychiatric illness due to a medical condition, what is the most important first step?",
+    "options": [
+      "Assess the patient's physical health.",
+      "Assume the patient has a primary psychiatric disorder.",
+      "Focus only on the psychiatric symptoms.",
+      "Ignore medication history."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is a key feature of psychiatric symptoms related to a medical condition?",
+    "options": [
+      "They are resistant to all forms of treatment.",
+      "They typically improve once the underlying medical condition is treated.",
+      "They are always identical to primary psychiatric disorders.",
+      "They are not affected by the patient's physical health.."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which of the following is the most important principle when evaluating psychiatric symptoms in a medically ill patient?",
+    "options": [
+      "Exclude an underlying medical cause first.",
+      "Assume the symptoms are psychiatric.",
+      "Start antipsychotic medication immediately.",
+      "Refer directly for psychotherapy."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following psychiatric presentations is most suggestive of an underlying medical disorder?",
+    "options": [
+      "Gradual onset of anxiety.",
+      "Acute onset of visual hallucinations.",
+      "Long-standing social anxiety.",
+      "Stable personality traits."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A 68-year-old man with no previous psychiatric history suddenly develops confusion, visual hallucinations, and fluctuating consciousness after hospitalization. The most likely explanation is:",
+    "options": [
+      "Primary schizophrenia.",
+      "Psychiatric disorder secondary to a medical condition.",
+      "Personality disorder.",
+      "Bipolar disorder."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which endocrine disorder is commonly associated with depressive symptoms?",
+    "options": [
+      "Cushing's syndrome.",
+      "Diabetes insipidus.",
+      "Acromegaly.",
+      "Hyperparathyroidism."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which of the following is TRUE regarding psychiatric disorders secondary to medical illnesses?",
+    "options": [
+      "Treating the underlying medical condition may improve psychiatric symptoms.",
+      "They are always permanent.",
+      "They never require medical assessment.",
+      "They are always identical to primary psychiatric disorders."
+    ],
+    "correct": 0
+  }
+]

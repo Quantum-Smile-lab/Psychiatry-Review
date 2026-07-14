@@ -1,0 +1,401 @@
+[
+  {
+    "question": "Depression is treatable. In most cases, treatment involves a combination of:",
+    "options": [
+      "Psychotherapy and medication",
+      "Living a retired and sedentary life",
+      "Self-care and medication",
+      "Psychotherapy, medications, and self-care techniques"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Pseudodementia is seen in:",
+    "options": [
+      "Alcoholism",
+      "Depression",
+      "Schizophrenia",
+      "Mania"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "For people with chronic physical conditions, control of psychiatric symptoms by:",
+    "options": [
+      "Medication & psychotherapy",
+      "Correction of medical condition",
+      "Medication only",
+      "Support of patient only"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "One criterion for female sexual interest/arousal disorder:",
+    "options": [
+      "Focused on physical inability to become sexually aroused",
+      "Characterized by delay/absence of orgasm",
+      "Marked pain during sexual activity",
+      "Characterized by low sexual interest or desire"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "For healthcare professionals to diagnose this problem, symptoms must persist:",
+    "options": [
+      "6 months and >50–75% of the time",
+      "6 months and 75–100% of the time",
+      "3 months and 75–100% of the time",
+      "3 months and 50–75% of the time"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Ego-dystonic thoughts/actions are:",
+    "options": [
+      "Rational or excessive",
+      "Irrational or excessive",
+      "Accompanied by hallucinations",
+      "Accompanied by delusions"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Woman repeatedly checking mirrors because of concern about facial deformity. Diagnosis:",
+    "options": [
+      "Obsessive-compulsive disorder",
+      "Body dysmorphic disorder",
+      "Hoarding disorder",
+      "Trichotillomania"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Schizophrenia disorders are characterized by disturbance of:",
+    "options": [
+      "Thinking",
+      "Perception",
+      "Behaviour",
+      "All the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which is NOT a positive symptom of schizophrenia?",
+    "options": [
+      "Delusions",
+      "Hallucinations",
+      "Disorganized thinking",
+      "Avolition"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Widow hears deceased wife's voice when looking at old photos or falling asleep. Why is this NOT psychosis?",
+    "options": [
+      "Voice is from a family member",
+      "Experience occurs while falling asleep",
+      "He can invoke the voice with certain activities",
+      "Both B and C"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Mood disorder with hypomania alternating with major depressive episodes:",
+    "options": [
+      "Unipolar depression",
+      "Cyclothymic disorder",
+      "Bipolar I disorder",
+      "Bipolar II disorder"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Lifetime prevalence of attempted suicide in Bipolar II and Bipolar I respectively:",
+    "options": [
+      "37.4% and 46.3%",
+      "32.4% and 36.3%",
+      "62.4% and 36.3%"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Patient on risperidone with amenorrhea and negative pregnancy test. Order:",
+    "options": [
+      "CBC",
+      "Prolactin level",
+      "Risperidone level",
+      "Liver function"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Woman avoids leaving home after panic attacks because of fear of inability to escape:",
+    "options": [
+      "Depression",
+      "Panic disorder",
+      "Generalized anxiety disorder",
+      "Agoraphobia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Individual unaware of presenting different personalities:",
+    "options": [
+      "Dislocated identity disorder",
+      "Disjointed identity disorder",
+      "Misappropriate identity disorder",
+      "Dissociative identity disorder"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Before age 15, ASPD is associated with:",
+    "options": [
+      "ADHD",
+      "Borderline personality disorder",
+      "Conduct disorder",
+      "Impulse control disorder"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "One criterion of Borderline Personality Disorder:",
+    "options": [
+      "Changes in mood lasting months",
+      "Extreme emotion causing harm",
+      "Heightened self",
+      "Repeated suicidal behaviour and/or gestures"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Initial drug of choice in depression:",
+    "options": [
+      "MAOIs",
+      "NDRIs",
+      "SSRIs",
+      "SNRIs"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which psychotherapy is usually effective in GAD?",
+    "options": [
+      "Interpersonal psychotherapy",
+      "Psychodynamic therapy",
+      "Cognitive behavioural therapy",
+      "Dialectical behaviour therapy"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which is NOT a symptom of panic attack?",
+    "options": [
+      "Chills",
+      "Mania",
+      "Palpitations",
+      "Trembling"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "DSM-5 requires after a panic attack:",
+    "options": [
+      "Depression and hopelessness",
+      "Excessive need to return to the attack location",
+      "Fear of major illness",
+      "Worry about additional panic attacks"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Best advice for daughter of dementia patient:",
+    "options": [
+      "Avoid explaining changes",
+      "Avoid friends to minimize stimulation",
+      "Establish routine activities to reinforce orientation",
+      "Keep room quiet, dark and private"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Man believes neighbour controls his brain by radio waves:",
+    "options": [
+      "Passivity feeling",
+      "Delusion of persecution",
+      "Delusion of control",
+      "Organic brain syndrome"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Suggestive of an organic cause of behavioural symptoms:",
+    "options": [
+      "Formal thought disorder",
+      "Auditory hallucinations",
+      "Delusion of guilt",
+      "Prominent visual hallucinations"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Desensitization (behaviour therapy) is used for:",
+    "options": [
+      "Phobic disorder",
+      "Panic attacks",
+      "Mania",
+      "Depression"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Characteristic feature of catatonic schizophrenia:",
+    "options": [
+      "Stupor",
+      "Rigidity",
+      "Negativism",
+      "All the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Boy afraid classmates laugh at him and afraid to go outside:",
+    "options": [
+      "Anxiety disorder",
+      "Mood disorder",
+      "OCD",
+      "Schizophrenia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Patient sees a rope as a snake:",
+    "options": [
+      "Illusion",
+      "Hallucination",
+      "Delusion",
+      "Depersonalization"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Drug of choice for bipolar disorder:",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Haloperidol",
+      "Fluoxetine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "ECT is treatment of choice in:",
+    "options": [
+      "Hysteria",
+      "Catatonic schizophrenia",
+      "OCD",
+      "Depression with suicidal tendency"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Contraindication for ECT:",
+    "options": [
+      "Increased ICP",
+      "Pregnancy",
+      "Recent MI",
+      "Old age"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Man avoids public places due to fear of palpitations and anxiety:",
+    "options": [
+      "Generalized anxiety disorder",
+      "Schizophrenia",
+      "Panic attacks",
+      "Agoraphobia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "22-year-old with decreased sleep, increased sexual activity, excessive spending for 8 days:",
+    "options": [
+      "Confusion",
+      "Mania",
+      "ADHD",
+      "Psychosis"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "True about Bipolar II disorder:",
+    "options": [
+      "Recurrent depression",
+      "Recurrent mania",
+      "Repetitive depression & mania",
+      "Repetitive depression & hypomania"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Laughs one minute and cries the next without clear stimulus:",
+    "options": [
+      "Incongruent affect",
+      "Euphoria",
+      "Labile affect",
+      "Split personality"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "67-year-old after husband's death becomes overactive, sleeps less, grandiose ideas:",
+    "options": [
+      "Acute manic episode",
+      "Delusion",
+      "Schizophrenia",
+      "Depression"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Urge to turn a light switch on and off 12 times:",
+    "options": [
+      "Irrational belief",
+      "Generalized anxiety",
+      "Obsession",
+      "Compulsion"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "OCD symptoms are related to overactivity in:",
+    "options": [
+      "Locus coeruleus",
+      "Increased worry",
+      "—",
+      "Orbitofrontal cortex, caudate nucleus and cingulate cortex"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Body dysmorphic disorder is most likely to begin in:",
+    "options": [
+      "Early childhood",
+      "Middle childhood",
+      "Adolescence",
+      "Adulthood"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Onychophagia is:",
+    "options": [
+      "Picks at skin",
+      "Pulls out hair",
+      "Bites nails",
+      "Eats raw foods"
+    ],
+    "correct": 2
+  }
+]
