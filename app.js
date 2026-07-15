@@ -251,6 +251,7 @@ function renderQuestion() {
   });
 
   document.getElementById('feedbackBox').className = 'feedback-box';
+  document.getElementById('btnPrev').style.display = currentQ === 0 ? 'none' : '';
   document.getElementById('btnSkip').style.display = '';
   document.getElementById('btnNext').style.display = 'none';
 }
@@ -270,6 +271,14 @@ function selectAnswer(btn, index, q) {
     score++;
     document.getElementById('qScore').textContent = score;
     showFeedback(true, '✓ Correct!');
+    document.getElementById('btnPrev').style.display = 'none';
+    document.getElementById('btnSkip').style.display = 'none';
+    document.getElementById('btnNext').style.display = 'none';
+    setTimeout(() => {
+      currentQ++;
+      renderQuestion();
+    }, 700);
+    return;
   } else {
     btn.classList.add('wrong');
     btn.querySelector('.option-icon').textContent = '✗';
@@ -285,6 +294,7 @@ function selectAnswer(btn, index, q) {
     });
   }
 
+  document.getElementById('btnPrev').style.display = 'none';
   document.getElementById('btnSkip').style.display = 'none';
   document.getElementById('btnNext').style.display = '';
 }
@@ -296,6 +306,14 @@ function showFeedback(correct, msg) {
   document.getElementById('feedbackIcon').textContent = correct ? '✓' : '✗';
   document.getElementById('feedbackText').textContent = msg;
 }
+
+// ===== PREVIOUS =====
+document.getElementById('btnPrev').addEventListener('click', () => {
+  if (currentQ > 0) {
+    currentQ--;
+    renderQuestion();
+  }
+});
 
 // ===== SKIP =====
 document.getElementById('btnSkip').addEventListener('click', () => {
